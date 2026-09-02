@@ -1,0 +1,143 @@
+# BAR RADAR - brand dictionary for Phase 3 menu analysis
+#
+# Organized by spirit_category. Add brands here as you notice gaps in your
+# real menu data - this list is necessarily incomplete (there are thousands
+# of spirit brands worldwide); it covers the brands most commonly seen on
+# German/European cocktail menus as a starting point.
+#
+# Matching is case-insensitive, whole-word/phrase (won't match "ginger" as
+# "gin"), against both individual menu items and the whole menu text.
+
+GIN:
+  - Bombay Sapphire
+  - Hendrick's
+  - Tanqueray
+  - Monkey 47
+  - Gordon's
+  - Beefeater
+  - Sipsmith
+  - Gin Mare
+  - Roku
+  - Malfy
+  - The Botanist
+  - Plymouth Gin
+  - Bulldog Gin
+  - Whitley Neill
+  - Ophir
+  - Ferdinand's
+
+VODKA:
+  - Absolut
+  - Belvedere
+  - Grey Goose
+  - Ketel One
+  - Smirnoff
+  - 42 Below
+  - Ciroc
+  - Chopin
+  - Stolichnaya
+  - Reyka
+  - Wodka Gorbatschow
+  - Beluga
+
+RUM:
+  - Bacardi
+  - Havana Club
+  - Plantation
+  - Diplomatico
+  - Mount Gay
+  - Wray and Nephew
+  - Appleton Estate
+  - Captain Morgan
+  - Kraken
+  - Zacapa
+  - Botucal
+  - Angostura
+  - El Dorado
+  - Don Papa
+
+TEQUILA_MEZCAL:
+  - Patron
+  - Don Julio
+  - Jose Cuervo
+  - "1800"
+  - Olmeca
+  - Herradura
+  - Casamigos
+  - Ojo de Dios
+  - Espolon
+  - Milagro
+  - Del Maguey
+  - Ilegal Mezcal
+
+WHISKY:
+  - Jack Daniel's
+  - Jameson
+  - Johnnie Walker
+  - Macallan
+  - Glenfiddich
+  - Chivas Regal
+  - Bulleit
+  - Maker's Mark
+  - Woodford Reserve
+  - Glenlivet
+  - Talisker
+  - Lagavulin
+  - Nikka
+  - Suntory
+  - Monkey Shoulder
+  - Four Roses
+  - Wild Turkey
+  - Buffalo Trace
+
+COGNAC_BRANDY:
+  - Hennessy
+  - Remy Martin
+  - Courvoisier
+  - Martell
+  - Asbach
+
+LIQUEUR_APERITIF:
+  - Aperol
+  - Campari
+  - Cointreau
+  - Grand Marnier
+  - Chambord
+  - Kahlua
+  - Baileys
+  - Disaronno
+  - Martini Rosso
+  - Martini Bianco
+  - Branca Menta
+  - Fernet Branca
+  - Amaro Montenegro
+  - Averna
+  - Cynar
+  - Suze
+  - Luxardo
+  - Chartreuse
+  - Benedictine
+  - Frangelico
+  - St-Germain
+  - Licor 43
+
+SPARKLING_WINE:
+  - Veuve Clicquot
+  - Moet
+  - Dom Perignon
+  - Laurent-Perrier
+  - Taittinger
+  - Ruinart
+  - Rheinsberger
+
+BEER:
+  - Heineken
+  - Becks
+  - Augustiner
+  - Radeberger
+  - Berliner Kindl
+  - Schöfferhofer
+  - Krombacher
+  - Bitburger
+  - Erdinger
+  - Paulaner

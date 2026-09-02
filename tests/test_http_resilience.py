@@ -86,6 +86,55 @@ def test_search_website_returns_none_when_all_engines_fail(monkeypatch):
     website_finder.reset_bing_circuit_breaker()
 
 
+def test_bing_200_with_zero_parsed_results_counts_as_failure_not_silent_success(monkeypatch):
+    """Regression test: a 200 response with no matching result links (e.g. a
+    consent/bot-challenge page instead of real results) must be treated as a
+    breaker failure, not silently recorded as success. Otherwise the circuit
+    never opens even though every single query is coming back empty."""
+    website_finder.reset_ddg_circuit_breaker()
+    website_finder.reset_bing_circuit_breaker()
+
+    def empty_200(url, **kwargs):
+        if "duckduckgo" in url:
+            return FakeResponse(status_code=403)
+        if "bing" in url:
+            return FakeResponse(status_code=200, text="<html><body>consent wall</body></html>")
+        return FakeResponse(status_code=404)
+
+    monkeypatch.setattr(website_finder, "get", empty_200)
+
+    for _ in range(website_finder._bing_breaker.threshold):
+        result = website_finder.search_website("Some Bar", "Berlin")
+        assert result is None
+
+    assert website_finder._bing_breaker.open is True
+    assert website_finder._bing_breaker.consecutive_failures >= website_finder._bing_breaker.threshold
+
+    website_finder.reset_ddg_circuit_breaker()
+    website_finder.reset_bing_circuit_breaker()
+
+
+def test_ddg_200_with_zero_parsed_results_counts_as_failure_not_silent_success(monkeypatch):
+    website_finder.reset_ddg_circuit_breaker()
+    website_finder.reset_bing_circuit_breaker()
+
+    def empty_200(url, **kwargs):
+        if "duckduckgo" in url:
+            return FakeResponse(status_code=200, text="<html><body>no results here</body></html>")
+        return FakeResponse(status_code=403)
+
+    monkeypatch.setattr(website_finder, "get", empty_200)
+
+    for _ in range(website_finder._ddg_breaker.threshold):
+        result = website_finder.search_website("Some Bar", "Berlin")
+        assert result is None
+
+    assert website_finder._ddg_breaker.open is True
+
+    website_finder.reset_ddg_circuit_breaker()
+    website_finder.reset_bing_circuit_breaker()
+
+
 def test_connection_error_does_not_retry(monkeypatch):
     call_count = {"n": 0}
 

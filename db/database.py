@@ -338,7 +338,7 @@ def export_menu_sources_rows() -> list[sqlite3.Row]:
                    ms.menu_url, ms.menu_name, ms.menu_category, ms.menu_source_type,
                    ms.is_primary, ms.discovery_method, ms.retrieval_method,
                    ms.raw_file_path, ms.extraction_status, ms.extraction_confidence,
-                   ms.content_hash, ms.checked_at
+                   ms.content_hash, ms.checked_at, ms.extracted_text
             FROM menu_sources ms
             JOIN venues v ON v.venue_id = ms.venue_id
             WHERE ms.discovery_method IS NOT NULL
@@ -420,5 +420,169 @@ def manual_review_rows() -> list[sqlite3.Row]:
             JOIN venues v ON v.venue_id = r.venue_id
             WHERE r.resolved = 0
             ORDER BY r.created_at
+            """
+        ).fetchall()
+
+
+# ---------------------------------------------------------------------------
+# Phase 3: structured menu item + brand extraction
+# ---------------------------------------------------------------------------
+
+def get_unanalyzed_menu_sources(limit: int) -> list[sqlite3.Row]:
+    """menu_sources with real extracted text that haven't been run through
+    Phase 3 analysis yet - the resumable work queue, same pattern as
+    Phase 2's PENDING-only extraction queue."""
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT ms.menu_source_id, ms.venue_id, ms.menu_category, ms.extracted_text
+            FROM menu_sources ms
+            WHERE ms.extraction_status IN ('EXTRACTED', 'PDF_OCR', 'SCREENSHOT_OCR')
+              AND ms.extracted_text IS NOT NULL
+              AND ms.extracted_text != ''
+              AND ms.menu_source_id NOT IN (SELECT menu_source_id FROM menu_source_analysis_status)
+            ORDER BY ms.checked_at
+            LIMIT ?
+            """,
+            (limit,),
+        ).fetchall()
+
+
+def insert_menu_items(items: list[dict]) -> None:
+    if not items:
+        return
+    with get_conn() as conn:
+        conn.executemany(
+            """
+            INSERT INTO menu_items (
+                item_id, menu_source_id, venue_id, item_name, raw_line,
+                price_value, price_currency, beverage_category, spirit_category,
+                is_alcoholic, ingredients_text, parse_confidence, parse_method
+            ) VALUES (
+                :item_id, :menu_source_id, :venue_id, :item_name, :raw_line,
+                :price_value, :price_currency, :beverage_category, :spirit_category,
+                :is_alcoholic, :ingredients_text, :parse_confidence, :parse_method
+            )
+            """,
+            items,
+        )
+        conn.commit()
+
+
+def insert_brand_mentions(mentions: list[dict]) -> None:
+    if not mentions:
+        return
+    with get_conn() as conn:
+        conn.executemany(
+            """
+            INSERT INTO brand_mentions (
+                mention_id, menu_source_id, venue_id, item_id,
+                brand_name, spirit_category, mention_count, confidence
+            ) VALUES (
+                :mention_id, :menu_source_id, :venue_id, :item_id,
+                :brand_name, :spirit_category, :mention_count, :confidence
+            )
+            """,
+            mentions,
+        )
+        conn.commit()
+
+
+def mark_menu_source_analyzed(menu_source_id: str, items_found: int, brand_mentions_found: int) -> None:
+    with get_conn() as conn:
+        conn.execute(
+            """
+            INSERT OR REPLACE INTO menu_source_analysis_status
+                (menu_source_id, analyzed_at, items_found, brand_mentions_found)
+            VALUES (?, datetime('now'), ?, ?)
+            """,
+            (menu_source_id, items_found, brand_mentions_found),
+        )
+        conn.commit()
+
+
+def export_menu_items_rows() -> list[sqlite3.Row]:
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT mi.item_id, mi.venue_id, v.venue_name, v.city, v.tier,
+                   mi.item_name, mi.price_value, mi.price_currency,
+                   mi.beverage_category, mi.spirit_category, mi.is_alcoholic,
+                   mi.ingredients_text, mi.parse_confidence, mi.parse_method,
+                   mi.menu_source_id
+            FROM menu_items mi
+            JOIN venues v ON v.venue_id = mi.venue_id
+            ORDER BY v.city, v.venue_name, mi.beverage_category
+            """
+        ).fetchall()
+
+
+def export_brand_mentions_rows() -> list[sqlite3.Row]:
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT bm.mention_id, bm.venue_id, v.venue_name, v.city,
+                   bm.brand_name, bm.spirit_category, bm.mention_count, bm.confidence
+            FROM brand_mentions bm
+            JOIN venues v ON v.venue_id = bm.venue_id
+            ORDER BY bm.brand_name, v.city
+            """
+        ).fetchall()
+
+
+def brand_leaderboard() -> list[sqlite3.Row]:
+    """Aggregated top brands by total mentions and distinct venues calling them."""
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT brand_name, spirit_category,
+                   SUM(mention_count) AS total_mentions,
+                   COUNT(DISTINCT venue_id) AS venue_count
+            FROM brand_mentions
+            GROUP BY brand_name, spirit_category
+            ORDER BY total_mentions DESC
+            """
+        ).fetchall()
+
+
+def category_share() -> list[sqlite3.Row]:
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT beverage_category, COUNT(*) AS item_count,
+                   AVG(price_value) AS avg_price, MIN(price_value) AS min_price,
+                   MAX(price_value) AS max_price
+            FROM menu_items
+            WHERE beverage_category IS NOT NULL
+            GROUP BY beverage_category
+            ORDER BY item_count DESC
+            """
+        ).fetchall()
+
+
+def spirit_category_share() -> list[sqlite3.Row]:
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT spirit_category, COUNT(*) AS item_count,
+                   AVG(price_value) AS avg_price
+            FROM menu_items
+            WHERE spirit_category IS NOT NULL AND spirit_category != 'OTHER'
+            GROUP BY spirit_category
+            ORDER BY item_count DESC
+            """
+        ).fetchall()
+
+
+def alcoholic_split() -> list[sqlite3.Row]:
+    with get_conn() as conn:
+        return conn.execute(
+            """
+            SELECT
+                CASE is_alcoholic WHEN 1 THEN 'Alcoholic' WHEN 0 THEN 'Non-Alcoholic' ELSE 'Unknown' END AS label,
+                COUNT(*) AS item_count
+            FROM menu_items
+            GROUP BY label
+            ORDER BY item_count DESC
             """
         ).fetchall()

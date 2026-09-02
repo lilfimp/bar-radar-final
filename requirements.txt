@@ -12,8 +12,5 @@ pytesseract>=0.3.10       # OCR wrapper - requires the `tesseract-ocr` system pa
                           # (Windows: https://github.com/UB-Mannheim/tesseract/wiki,
                           #  Ubuntu/GitHub Actions: apt-get install tesseract-ocr tesseract-ocr-deu)
 
-# Optional: only needed if you enable the Playwright fallback for
-# JS-rendered sites / JS-only menu pages (src/enrichment/menu_crawler.py,
-# src/extraction/playwright_fallback.py). Uncomment and run
-# `playwright install chromium` if you turn that on.
-# playwright>=1.44
+# Analytics: brand/price aggregation workbook (src/pipeline/generate_report.py)
+openpyxl>=3.1

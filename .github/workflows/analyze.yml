@@ -1,0 +1,52 @@
+name: BAR RADAR - Menu Analysis & Insights (Phase 3)
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Menu sources to analyze this run"
+        default: "300"
+  schedule:
+    - cron: "0 5 * * *"  # once daily - analysis is fast, no need to run as often as extraction
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore database
+        uses: actions/cache@v4
+        with:
+          path: data/bar_radar.db
+          key: bar-radar-db-${{ github.run_id }}
+          restore-keys: |
+            bar-radar-db-
+
+      - name: Apply database migrations
+        run: python -m db.migrate
+
+      - name: Run analysis batch
+        run: python -m src.pipeline.run_analysis --batch-size ${{ github.event.inputs.batch_size || 300 }}
+
+      - name: Generate insights workbook
+        run: python -m src.pipeline.generate_report
+
+      - name: Export CSVs
+        run: python -m src.pipeline.export
+
+      - name: Commit updated exports
+        run: |
+          git config user.name "bar-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/exports/ data/manual_review/
+          git diff --cached --quiet || git commit -m "chore: menu analysis batch [skip ci]"
+          git push

@@ -12,6 +12,8 @@ Usage:
 """
 from __future__ import annotations
 
+import re
+
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font
 from openpyxl.utils import get_column_letter
@@ -35,6 +37,20 @@ HEADER_FILL = "4472C4"
 TITLE_FONT = Font(name=FONT, bold=True, size=14)
 BODY_FONT = Font(name=FONT)
 
+# XML 1.0 (the format .xlsx cells are stored as) disallows most control
+# characters. Real extracted PDF text occasionally contains stray control
+# bytes from font-encoding quirks (confirmed against actual data - a wine
+# menu entry crashed the workbook write with exactly this). Every string
+# value gets cleaned before it's written to a cell, rather than trusting
+# extracted text to already be XML-safe.
+_ILLEGAL_XML_CHARS = re.compile(r"[\x00-\x08\x0B\x0C\x0E-\x1F]")
+
+
+def _sanitize(value):
+    if isinstance(value, str):
+        return _ILLEGAL_XML_CHARS.sub("", value)
+    return value
+
 
 def _style_header_row(ws, row: int, num_cols: int) -> None:
     from openpyxl.styles import PatternFill
@@ -55,7 +71,7 @@ def _write_table(ws, headers: list[str], rows: list[list], start_row: int = 1) -
     _style_header_row(ws, start_row, len(headers))
     for r, row in enumerate(rows, start=start_row + 1):
         for c, value in enumerate(row, start=1):
-            cell = ws.cell(row=r, column=c, value=value)
+            cell = ws.cell(row=r, column=c, value=_sanitize(value))
             cell.font = BODY_FONT
     return start_row + len(rows) + 1
 
@@ -87,8 +103,8 @@ def build_workbook(output_path) -> None:
         ["Total brand mentions", sum(b["total_mentions"] for b in brands)],
     ]
     for r, (label, value) in enumerate(overview_rows, start=3):
-        ws.cell(row=r, column=1, value=label).font = BODY_FONT
-        ws.cell(row=r, column=2, value=value).font = BODY_FONT
+        ws.cell(row=r, column=1, value=_sanitize(label)).font = BODY_FONT
+        ws.cell(row=r, column=2, value=_sanitize(value)).font = BODY_FONT
     _autosize_columns(ws, {1: 40, 2: 16})
 
     note_row = 3 + len(overview_rows) + 1

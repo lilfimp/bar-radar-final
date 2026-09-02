@@ -342,3 +342,72 @@ a78a9712-90a2-4233-856f-e15d5e540904,WEBSITE,website_status=UNAVAILABLE,2026-09-
 10199e6f-5fbc-41d6-855b-bc3a16d5402e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 00:30:47,25dc3bc790cab9a8,Bistro Europa,Hamburg,"Käkenflur 14a, 22419 Hamburg",
 c309b0db-8872-4b92-8f8d-3bb6869d772c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 00:30:48,eaa871f075832ab6,Eier Carl,Hamburg,"Fischmarkt 3, 22767 Hamburg",
 df0ca212-12e0-406c-9eb5-7b70a864ee6c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 00:30:49,9aaa5607bfe04af1,Come In,Hamburg,"Hummelsbüttler Hauptstraße 55e, 22339 Hamburg",
+9ac6ac46-a9b9-4f8a-9488-a574335ad69a,MENU,Candidates found but none validated,2026-09-02 04:16:13,f80fabf28e2a952a,Baradona,Hamburg,"Bismarckstraße 95, 20253 Hamburg",http://baradona.com/
+3abdd9d5-bb3b-40e6-9dc2-6508f910a4f4,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:33,e8ff35bea2cc191f,Antik,Hamburg,,
+76cdf5e5-235c-4262-b29a-9a62d0a107ba,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:38,16f85d02ff2cb9cb,VielHarmonie,Hamburg,"Markusstraße 17, 20355 Hamburg",
+81446359-ae7c-4d00-8ebc-78d3d8a7f5aa,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:39,855a67d0c97742f8,Zur gemütlichen Ecke,Hamburg,,
+b122bf69-727a-4c5b-9693-e569f2e7a9f1,MENU,Low confidence (0.4),2026-09-02 04:16:52,28bdbdb408a2f5ae,Mathilde Bar,Hamburg,"Bogenstraße 5, 20144 Hamburg",https://www.mathilde-hh.de/mathilde-bar-eimsb%C3%BCttel/
+5d0c83a4-9509-42de-9b09-7a9360dc6172,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:52,129f351d3de29ad3,Christiansen's,Hamburg,,
+388127ac-9fac-48e7-af09-0ea0c2b1c9ea,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:53,da89675f15a3714d,Nostalgia Bar,Hamburg,"Große Brunnenstraße 81, 22763 Hamburg",
+6d8a5483-86be-4059-88c2-f1d85a606d83,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:54,dc8e91236990b772,Titanic Irish Pub,Hamburg,,
+54b5a0b1-af0b-4498-b138-d3b3786d7068,MENU,Candidates found but none validated,2026-09-02 04:16:59,e746ca11687abee1,Goescheneck,Hamburg,"Marienstraße 37, 21073 Hamburg",https://www.goescheneck-harburg.de/
+a750fc0a-e96f-45e5-907b-1c04f5d12a4a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:16:59,c93d6a31394c477e,Marien Eck,Hamburg,,
+e3bad70d-4d61-466c-8727-15c0b623f191,MENU,Candidates found but none validated,2026-09-02 04:17:13,183b8e896518e4b3,Oorlam,Hamburg,"Kohlhöfen 29, 20355 Hamburg",https://www.oorlam.de/
+37152cd5-7ef2-494e-8dcf-ea796b6a9338,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:13,61c02101e35c23c7,Musti,Hamburg,,
+7e9e438b-e237-4a10-b75d-20d093e8209b,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:14,70237a8ea2738226,Rugen-Eck,Hamburg,"Blomkamp 2, 22549 Hamburg",
+c0563942-8f74-4ef0-a4c7-4a673b043799,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:15,c36f23817ae86986,Janssen's,Hamburg,"Rugenbarg, 22549 Hamburg",
+2ee05b09-5b8c-4f38-b64b-930b3d12a3d2,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:16,402a557db9a0268d,Bertels,Hamburg,"Feldstraße 73, 20359 Hamburg",
+1c752175-0c57-4e5b-9ef4-018538854295,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:17,4016181fbe83b569,Zur Mühlenklause,Hamburg,,
+f1f655da-8a19-40b2-86ed-76cadbb5ebac,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:18,0cf81c7f58e58652,Robi's Island,Hamburg,,
+ca5f09fc-ca99-4632-acbe-274ee9a17a60,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:19,1deb273f7cefc35b,Kamm In,Hamburg,,
+1c265a67-a2cf-4735-b96e-ae9ca4a95c3e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:20,2db812edc6d0518f,Marktschänke,Hamburg,,
+8d2abbce-b9a2-4d82-ad08-6ebb0c6d25ef,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:21,0b54f9fbedc8d7fe,Holsten-Eck,Hamburg,"Luruper Hauptstraße 250a, 22547 Hamburg",
+581f966b-509c-4ac9-a07f-c38fe8d03544,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:22,2e2d997533dbdce8,1 & Dreißig,Hamburg,,
+b3bb5586-b20a-4853-b81d-b71b44f7a81e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:23,932609981ef23e7a,Gold Bar's,Hamburg,,
+dee81c0d-c640-4504-9d99-983a4cf57ccd,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:24,48a651baeddca523,Metro Bar,Hamburg,"Dehnhaide 2, 22081 Hamburg",
+f7113eb8-d368-4415-8cd3-b268f317fd25,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:25,1ec65525368d0a1b,Cheers & Sasa,Hamburg,,
+295c0922-e0cc-40d9-8913-fc5d63536628,WEBSITE,website_status=BLOCKED,2026-09-02 04:17:32,c602fbe6cb701969,Zum Silbersack,Hamburg,"Silbersackstraße 9, 20359 Hamburg",https://zumsilbersack.de/
+eadcce43-b714-4707-b3a6-908c7ed2bf2b,MENU,Candidates found but none validated,2026-09-02 04:17:55,2f4735be8660cca3,Schramme 10,Hamburg,", 20249 Hamburg",https://schramme10.com/
+bf86c384-790a-4f0f-b2fb-c67f142b6ab1,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:56,91bf035686239c0e,Die Glocke,Hamburg,"Klosterallee 65, 20144 Hamburg",
+614856b2-aa2d-46fc-97b9-3b13af3d2692,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:57,423c8a266c6238fe,Pavlos-Eck,Hamburg,"Oldachstraße 34, 22307 Hamburg",
+1aa30a00-8b3d-4158-a542-f35aa046a44a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:58,603b411d8132b550,Onkel Otto,Hamburg,,
+271e7dae-f105-4131-afae-6d936da05e02,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:17:59,cc5c8b14269c85c0,ahoi,Hamburg,,
+43ed641e-7cc2-444b-9cad-012684926176,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:12,d023f7475318887a,Paolas,Hamburg,,
+673d40f7-9b12-4236-8c0e-a86e333f4008,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:13,6d7355bf5a413de0,M&V Gaststätte,Hamburg,"Lange Reihe 22, 20099 Hamburg",
+a34b925b-36ed-4941-8a86-1c31e765cff9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:14,224946745df23c5d,Kiez Klause,Hamburg,"Gerhardstraße 10, 20359 Hamburg",
+6b74c1b8-6c88-4111-b164-192f8402b011,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:15,54e6b88939c7b1c3,Chikago Bar,Hamburg,"Gerhardstraße 10, 20359 Hamburg",
+6608cb45-80fa-4cc0-83a0-21a0d5df24b3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:16,122b550c34d69455,Der blaue Engel von St. Pauli,Hamburg,"Gerhardstraße 16, 20359 Hamburg",
+c8254ea8-c6b1-4544-9e53-e5173ea7c7a3,MENU,Candidates found but none validated,2026-09-02 04:18:51,39e345e61a715dd6,Zum Schellfischposten,Hamburg,"Carsten-Rehder-Straße 62, 22767 Hamburg",http://www.schellfischposten.de
+12f02818-9f19-4fe4-bd2b-8cc99056c75e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:52,c4a2fdc90bfc441c,Gaststätte Dreyer,Hamburg,"Martin-Luther-Straße 4, 20459 Hamburg",
+9a22679c-e362-4c15-a331-35180f9fe275,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:53,5a05f012c3db8dfe,Erste Liebe Bar,Hamburg,,
+7863de5d-fcb7-433d-af5a-cbba1f0522eb,WEBSITE,website_status=BLOCKED,2026-09-02 04:18:53,eb28bbe839b867d7,Cocktrail Bar,Hamburg,"Schürbeker Straße 12, 22087 Hamburg",http://www.cocktrail.de/
+24a057fe-2999-42e9-baab-ab57b75b6ba7,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:53,e2c0c08cf068e041,Arcotel Rubin,Hamburg,"Steindamm 63, 20099 Hamburg",
+bac8f2f7-2d95-41ba-baff-edcbe5344bce,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:55,3a8833cc6eddded0,Bellini Bar,Hamburg,,
+782ac595-eb17-4d03-a18c-70e986bc1c0a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:56,73e2f018c7e078b6,Zum Spritzenhaus,Hamburg,,
+6ba045ea-14b7-4db2-a7b6-ae0e2a3787b1,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:57,75a04c1db1f14e45,del Vino,Hamburg,,
+5461a35b-a5fa-410d-af62-0f87f534a73e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:58,28ce8dcca2ac6c81,Berner Marktschänke,Hamburg,"Kriegkamp 4, 22147 Hamburg",
+df7def13-e947-42df-9792-0de576f2afd0,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:59,0314bf5eb1d69d01,Downtown Bluesclub,Hamburg,,
+b02ca7dc-99b2-4b4d-bef4-1b811dff31b1,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:18:59,f8069552df66c7a2,El Ray,Hamburg,,
+22bcca29-00f2-4396-adcc-013c7fdcc170,MENU,Candidates found but none validated,2026-09-02 04:19:19,47f8a201960aa351,Max und Consorten,Hamburg,"Spadenteich 1, 20099 Hamburg",https://maxundconsorten.de/
+80ab43e8-0dcb-4d4f-bcfe-666adb367bc7,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:24,8e6fcacd3a3b4ce1,Feierabend,Hamburg,,
+39e5a897-4853-43e0-8b06-a82e43354396,MENU,Candidates found but none validated,2026-09-02 04:19:38,713226bdbdc1baac,The Irish Rover,Hamburg,"Großneumarkt 8, 20459 Hamburg",http://www.irishrover.de/
+d077e270-d093-46b2-a968-8a7de5326e0e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:38,f718b68d48ab608b,SportsBar,Hamburg,,
+9ce05789-dcb8-4a29-87b0-bda0f4c7f8a8,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:40,74608deb473a67df,Dorotheen-Eck,Hamburg,,
+b286a9c8-7ac9-4bd5-86b8-1900d92babfa,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:41,fe4d5e8d399c1613,Les Pompettes,Hamburg,,
+6fc79bc3-936e-468e-a72d-1d3949aa9d22,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:42,2113b9dfbf12534d,Gurke,Hamburg,,
+e794262c-b966-4e6e-982f-268033c9fb58,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:43,a20b0b6266c08265,Estrilie,Hamburg,,
+52ace14c-4ce0-4383-94d2-48ee12d7d9bf,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:44,31dfa10e1c0c0327,Mozaik,Hamburg,,
+671a6f3b-a499-40de-a57e-f2df8b24c812,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:45,61f1e1b8cea733fa,Tibarg Treff,Hamburg,,
+c189d85a-a7ad-4fa6-9664-d890ebd3423c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:46,55e907ea0f727ec3,Windschirm,Hamburg,"Hallerplatz 8, 20146 Hamburg",
+98c85d80-6a11-42b7-b11a-3b907b305bee,MENU,Candidates found but none validated,2026-09-02 04:19:59,6d9464d84cbce5ff,Schweizer Haus,Hamburg,"Hadermanns Weg 57, 22459 Hamburg",https://schweizer-haus.eatbu.com
+281f51e7-e56d-4207-9029-89263e8dda35,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:59,70c80a5270fa01d1,Victor's Bratkartoffel Restaurant,Hamburg,"Quedlinburger Weg 84, 22455 Hamburg",http://www.victors-niendorf.de
+da39c6de-ec5e-40a0-8b17-db02840565e1,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:19:59,30bf1c6cb8a40632,Monty's,Hamburg,,
+21cf80b9-e9a9-43c7-80d1-eab7e86a3c21,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:00,12435e82691312ec,Kuhstall,Hamburg,,
+1dc4eab3-7dfb-4ae1-9ed4-7c61039e2181,MENU,Candidates found but none validated,2026-09-02 04:20:13,1c149efdeee32796,Shovel Road,Hamburg,"Gasstraße 2a, 22761 Hamburg",http://www.shovelroad.de
+4df5e170-87a3-4526-87c6-d92b2bbd0fb4,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:14,6fca199bebd128a7,Kopps Bar,Hamburg,,
+6de3fb46-d355-4c55-b364-0aacf24f904b,MENU,Candidates found but none validated,2026-09-02 04:20:27,b2645055b0c5e2f2,Fritz Bauch,Hamburg,"Bartelsstraße 6, 20357 Hamburg",http://www.fritzbauch.de/
+27d3584b-e24c-45b0-8d02-52d44ff2b862,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:27,c943b3debe3153ea,Astro Drink Bombe,Hamburg,"Bartelsstraße 55, 20357 Hamburg",
+258610af-e815-4c38-93c3-70e2654a6b1a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:28,ad6e9a13b9412923,No Name,Hamburg,"Elligersweg 7, 22307 Hamburg",
+90892b08-734b-45cd-9f02-042bfb51b950,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:29,9bad0132310ec4c6,Astra,Hamburg,,
+897c9743-f5e6-4871-8dd3-5f900c5e1a4a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:30,4252325c824c2c3b,Queen Mum,Hamburg,,
+c2108ace-b10c-4871-ab57-f64908bde938,WEBSITE,website_status=UNAVAILABLE,2026-09-02 04:20:31,366f61ed688543ec,Mutter,Hamburg,"Stresemannstraße 11, 22769 Hamburg",

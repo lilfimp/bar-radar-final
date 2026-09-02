@@ -107,13 +107,15 @@ def _search_duckduckgo(query: str) -> str | None:
         log.warning("DuckDuckGo search failed for '%s'", query)
         _ddg_breaker.record(success=False)
         return None
-    _ddg_breaker.record(success=True)
 
     soup = BeautifulSoup(resp.text, "html.parser")
     for link in soup.select("a.result__a"):
         real_url = _valid_result(_clean_ddg_redirect(link.get("href", "")))
         if real_url:
+            _ddg_breaker.record(success=True)
             return real_url
+    log.warning("DuckDuckGo returned 200 but zero usable results for '%s' - possible bot-challenge page", query)
+    _ddg_breaker.record(success=False)
     return None
 
 
@@ -125,7 +127,6 @@ def _search_bing(query: str) -> str | None:
         log.warning("Bing search failed for '%s'", query)
         _bing_breaker.record(success=False)
         return None
-    _bing_breaker.record(success=True)
 
     soup = BeautifulSoup(resp.text, "html.parser")
     # Bing's organic results sit in <li class="b_algo"><h2><a href="...">.
@@ -136,7 +137,20 @@ def _search_bing(query: str) -> str | None:
     for result in soup.select("li.b_algo h2 a"):
         real_url = _valid_result(result.get("href"))
         if real_url:
+            _bing_breaker.record(success=True)
             return real_url
+
+    # A 200 status with zero parsed results is NOT the same as a genuine
+    # search miss - it's the signature of Bing serving a cookie-consent
+    # wall, a bot-challenge page, or a selector that no longer matches
+    # current markup. Treating this as a breaker "failure" (not "success")
+    # means repeated empty-200 responses correctly open the circuit instead
+    # of silently burning through the whole batch getting nothing.
+    log.warning(
+        "Bing returned 200 but zero usable results for '%s' - likely a consent/"
+        "challenge page or a stale selector, not a real empty search", query,
+    )
+    _bing_breaker.record(success=False)
     return None
 
 

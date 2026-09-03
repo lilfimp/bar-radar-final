@@ -978,7 +978,7 @@ fac1e14daa986636,Hamburger Botschaft,Hanover,"Egestorffstraße 5, 30449 Hannover
 5f29b7eab111e9ca,Izarro,Hanover,"Ahlemer Straße 5, 30451 Hannover",https://www.estrella-gastro.de/izarro-sportsbar.html,https://www.estrella-gastro.de/karte,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:46:34
 77487445ac599a89,Kalah,Hanover,"Velberstraße 5, 30451 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:45
 84c5279cf10064bb,Kawa The Hut,Hanover,"Stärkestraße 26, 30451 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:14:09
-da2365b0c8aded33,Krökelbar,Hanover,"Georgstraße 50b, 30159 Hannover",https://www.kroekelbar.de/,https://www.kroekelbar.de/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 20:14:47
+da2365b0c8aded33,Krökelbar,Hanover,"Georgstraße 50b, 30159 Hannover",https://www.kroekelbar.de/,https://www.kroekelbar.de/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 20:46:42
 1672c0297cc8e386,Kuriosum,Hanover,"Schneiderberg 14, 30167 Hannover",http://www.kuriosum.com/,http://www.kuriosum.com/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:46:34
 b1890d31e56c33cc,La Boheme,Hanover,"Groß-Buchholzer Kirchweg 71, 30655 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:14:47
 ac0d720e064e2a60,Lieb ich 5,Hanover,"Liebigstraße 5, 30163 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:15:18
@@ -1010,7 +1010,7 @@ c2828bba50b758c3,Tango Milieu,Hanover,,https://www.tango-milieu.de/,https://www.
 ba8ea4a0aff4e8dc,Vereinsgaststätte TuS Kleefeld,Hanover,"Kleestraße 50, 30625 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:19:04
 421dd3e678953cc6,Was Nun,Hanover,"Am Kleinen Felde 21, 30167 Hannover",https://www.wasnun.com/,https://www.wasnun.com/,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:18:31
 c0a4e5c5e630d3d2,Zapfhahn,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:14:47
-b554130e3b51571d,ælling,Hanover,Böhmerstraße 17,https://www.aelling.de/,https://www.aelling.de/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 20:14:07
+b554130e3b51571d,ælling,Hanover,Böhmerstraße 17,https://www.aelling.de/,https://www.aelling.de/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 20:46:39
 c5c375f5223d2987,Barfly,Leipzig,Karl-Liebknecht-Straße 79,http://barfly-leipzig.de,http://barfly-leipzig.de/index.php/menu/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 08:59:06
 5ed2cec3cb948135,Besser Leben,Leipzig,"Holbeinstraße 2, 04229 Leipzig",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:23:05
 de2da462d329fd0a,Betten Költzsch,Leipzig,"Wolfgang-Heinze-Straße 30, 04277 Leipzig",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:20:08
@@ -1196,18 +1196,18 @@ bf168bb91df3c0f1,Meisenfrei,Aachen,,http://www.meisenfrei-aachen.de,,,3,overpass
 811d1126f672b14f,zuhause,Aachen,,https://zuhause-aachen.de/,,,3,overpass_osm,,
 4adbc605d1bdbfc0,Che Guevara,Bonn,"Münsterstraße 9, 53111 Bonn",,,,3,overpass_osm,,
 8e836288d85ac632,Das Nyx,Bonn,"Vorgebirgsstraße 19, 53111 Bonn",https://das-nyx.de,https://das-nyx.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:21:39
-73bf68308d0cd77c,Die Wache,Bonn,"Heerstraße 145, 53111 Bonn",http://www.die-wache.com/,http://www.die-wache.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:21:58
+73bf68308d0cd77c,Die Wache,Bonn,"Heerstraße 145, 53111 Bonn",http://www.die-wache.com/,http://www.die-wache.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:47:08
 62d0376fece8b41e,Fiddlers,Bonn,"Frongasse 9, 53121 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:45
 9710e5801f8870a6,James Joyce Irish Pub,Bonn,"Mauspfad 6-10, 53111 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:21:13
 45c4e1e742c2c45c,John Barleycorn,Bonn,"Heerstraße 52, 53111 Bonn",https://johnbarleycorn.de/,https://johnbarleycorn.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:20:45
-eebbd1ff45bc00f9,KulturKneipeBrotfabrik,Bonn,"Kreuzstraße 16, 53225 Bonn",http://www.kulturkneipebrotfabrik.de/,http://www.kulturkneipebrotfabrik.de/menu/essen/wochenkarte/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:22:42
-1b8b4eb6860ca6eb,Mausefalle 33 1/3,Bonn,"Weberstraße 41, 53113 Bonn",https://www.mausefalle-bonn.de/,https://www.mausefalle-bonn.de/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:21:13
+eebbd1ff45bc00f9,KulturKneipeBrotfabrik,Bonn,"Kreuzstraße 16, 53225 Bonn",http://www.kulturkneipebrotfabrik.de/,http://www.kulturkneipebrotfabrik.de/menu/essen/wochenkarte/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:47:12
+1b8b4eb6860ca6eb,Mausefalle 33 1/3,Bonn,"Weberstraße 41, 53113 Bonn",https://www.mausefalle-bonn.de/,https://www.mausefalle-bonn.de/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:47:07
 0d85a097264e5a8e,Moby's,Bonn,"Dorotheenstraße 2, 53111 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:22:23
 8264b0ac71ea9c12,Ratata,Bonn,"Röckumstraße 9, 53121 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:21:58
 ab4f795effd79ddb,Rheinlust,Bonn,"Rheinaustraße 134, 53225 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:45
 228b954ebcfd66df,Salönchen,Bonn,"Quantiusstraße 19, 53115 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:21:58
 0084347c78dcc47b,Südstadt Affe,Bonn,"Kaiserstraße 135, 53113 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:22:37
-c0642fdeef64ce75,The Quiet Man,Bonn,"Heerstraße 121, 53111 Bonn",http://the-quiet-man.com/,http://the-quiet-man.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:22:23
+c0642fdeef64ce75,The Quiet Man,Bonn,"Heerstraße 121, 53111 Bonn",http://the-quiet-man.com/,http://the-quiet-man.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:47:11
 85e6adcf92e949e0,Tresor,Bonn,"Wolfstraße 11, 53111 Bonn",https://www.tresor-bonn.de/,https://www.tresor-bonn.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:20:27
 393eefafed3c67c9,Zone,Bonn,"Maxstraße 2a, 53111 Bonn",https://www.zone-bonn.de/,https://www.zone-bonn.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:22:37
 c107d70a8d19b78f,Bei Tom,Bremen,"Osterholzer Landstraße 36, 28327 Bremen",,,,3,overpass_osm,,
@@ -1235,11 +1235,11 @@ a6253c5a80b4263c,Hausbrauerei Feierling,Freiburg,"Gerberau 46, 79098 Freiburg im
 f1abb0ff390d6dc2,Kneipe zum Urigen,Freiburg,"Johann-von-Weerth-Straße 19, 79100 Freiburg im Breisgau",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:17:01
 e1eb1bab15b62fe0,Litfass,Freiburg,Moltkestraße 17,https://litfass-freiburg.jimdo.com/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:16:16
 207a17ac47af34d4,McNamara's Irish Pub,Freiburg,"Waldkircher Straße 1, 79106 Freiburg im Breisgau",https://www.mcnamaras.de/,https://www.mcnamaras.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:16:54
-58eba5aa981e7409,O'Kellys Irish Pub,Freiburg,"Milchstraße 1, 79098 Freiburg im Breisgau",https://www.okellys.de/,https://www.okellys.de/menu2025-new.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:16:16
-150a46e6f77d36f9,Schlappen,Freiburg,Löwenstraße 2,http://www.schlappen.com/,https://schlappen.com/wp-content/uploads/2025/01/Getraenkekarte-Januar-2025-Zusammengefuehrt.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:16:10
-2c099b08d91fd5b8,Schwarzer Kater,Freiburg,"Bertoldstraße 26, 79098 Freiburg im Breisgau",https://www.schwarzer-kater.net/,https://tr.ee/WFxwHOmsVM,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:15:39
+58eba5aa981e7409,O'Kellys Irish Pub,Freiburg,"Milchstraße 1, 79098 Freiburg im Breisgau",https://www.okellys.de/,https://www.okellys.de/menu2025-new.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:46:54
+150a46e6f77d36f9,Schlappen,Freiburg,Löwenstraße 2,http://www.schlappen.com/,https://schlappen.com/wp-content/uploads/2025/01/Getraenkekarte-Januar-2025-Zusammengefuehrt.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:46:49
+2c099b08d91fd5b8,Schwarzer Kater,Freiburg,"Bertoldstraße 26, 79098 Freiburg im Breisgau",https://www.schwarzer-kater.net/,https://tr.ee/WFxwHOmsVM,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:46:44
 dca07fc629cfd77a,Sedan Eck,Freiburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:16:31
-c78b13f0a823c1c4,Webers Weinstube,Freiburg,,https://www.webers-weinstube.de/,https://www.webers-weinstube.de/files/data/webers_weinstube/speisekarten-webers/speisekarte.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:15:44
+c78b13f0a823c1c4,Webers Weinstube,Freiburg,,https://www.webers-weinstube.de/,https://www.webers-weinstube.de/files/data/webers_weinstube/speisekarten-webers/speisekarte.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:46:46
 6c57ba0c7fb6a09d,Woods,Freiburg,"Wilhelmstraße 7, 79098 Freiburg im Breisgau",https://woods-coctailhookah.eatbu.com/,,NONE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:16:31
 d7ab67090a1b63bc,Cafè Bistro Goodfellas,Heidelberg,"Bahnhofstraße 15, 69115 Heidelberg",https://www.bistro-goodfellas.de/l/index.html,,,3,overpass_osm,,
 847d1897ebc9680b,Canoa Bar,Heidelberg,"Neuenheimer Landstraße 5, 69120 Heidelberg",,,,3,overpass_osm,,
@@ -1305,14 +1305,14 @@ f10b8e8b53f623e1,Bar Zillus,Münster,"Jüdefelderstraße 41, 48143 Münster",htt
 c1f11d92896fa34a,Buddenturm,Münster,"Buddenstraße 1, 48143 Münster",http://www.buddenturm.de,http://www.buddenturm.de/getraenkekarte.html,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:18:19
 69247c742869bc37,Bullenkopp,Münster,"Alter Fischmarkt 24, 48143 Münster",http://www.bullenkopp.com/,http://www.bullenkopp.com/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:19:33
 7d4bb9a0c53e0095,Club Palma,Münster,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:04
-d7871aafa8266732,Das Blaue Haus,Münster,"Kreuzstraße 16, 48143 Münster",https://www.blaue-haus-muenster.de/,https://www.blaue-haus-muenster.de/_files/ugd/62e727_afd99df487f44f05b0c2284650ea9df6.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:18:16
+d7871aafa8266732,Das Blaue Haus,Münster,"Kreuzstraße 16, 48143 Münster",https://www.blaue-haus-muenster.de/,https://www.blaue-haus-muenster.de/_files/ugd/62e727_afd99df487f44f05b0c2284650ea9df6.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:47:01
 c8b8fa9ee84dbc75,Das Piano,Münster,"Frauenstraße 46, 48143 Münster",https://www.pianobar-muenster.de/,https://www.pianobar-muenster.de/karte.html,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:18:35
 fd4aa296dd352c3b,Davidwache,Münster,"Münzstraße 49, 48143 Münster",http://www.davidwache-muenster.de/davidwache/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:18:22
-e74eb0e84882d731,Der Bunte Vogel,Münster,"Alter Steinweg 41, 48143 Münster",https://www.buvo.de/buvo/,https://www.buvo.de/files/buvo-de/Downloads/BUVO_SPEISEKARTE_ONLINE.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:19:40
-d03dc1b3ab19d7f8,Gorilla Bar,Münster,"Jüdefelderstraße 54, 48143 Münster",https://www.gorilla-bar.de/,https://www.gorilla-bar.de/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:18:01
-36a1d68111c813cf,Hans&Franz,Münster,"Sophienstraße 2, 48145 Münster",https://www.hansundfranz-ms.de/,https://www.hansundfranz-ms.de/speisekarte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:17:47
+e74eb0e84882d731,Der Bunte Vogel,Münster,"Alter Steinweg 41, 48143 Münster",https://www.buvo.de/buvo/,https://www.buvo.de/files/buvo-de/Downloads/BUVO_SPEISEKARTE_ONLINE.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:47:05
+d03dc1b3ab19d7f8,Gorilla Bar,Münster,"Jüdefelderstraße 54, 48143 Münster",https://www.gorilla-bar.de/,https://www.gorilla-bar.de/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:46:58
+36a1d68111c813cf,Hans&Franz,Münster,"Sophienstraße 2, 48145 Münster",https://www.hansundfranz-ms.de/,https://www.hansundfranz-ms.de/speisekarte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:46:57
 a190aadbbfc504f0,Kaleido-Bar,Münster,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:04
-fc119777605d0966,Mokel Bar,Münster,"Rosenplatz 10, 48143 Münster",https://www.mokelbar.de,https://www.mokelbar.de/menu,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:19:18
+fc119777605d0966,Mokel Bar,Münster,"Rosenplatz 10, 48143 Münster",https://www.mokelbar.de,https://www.mokelbar.de/menu,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-03 20:47:02
 e4d3524d598de884,Peacock,Münster,"Jüdefelderstraße 36, 48143 Münster",https://www.peacock-muenster.de/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:19:14
 1d0bc0bd176391d3,Pinkulus,Münster,"Rosenplatz 6, 48143 Münster",https://pinkulus.de/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:14
 dacb59b25ab2afe6,Rote Liebe,Münster,"Kreuzstraße 14, 48143 Münster",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:18:16

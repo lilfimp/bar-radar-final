@@ -887,3 +887,61 @@ e5876548-2089-4ca9-a8a7-be058da89afc,WEBSITE,website_status=UNAVAILABLE,2026-09-
 9d304aaa-398f-4913-bd21-8b853c35ad55,MENU,Low confidence (0.4),2026-09-03 08:23:26,04da291b8bf406b2,Herr Kauzig,Leipzig,,https://herrkauzig.de/
 26ca2f92-134b-4ba6-9ad6-d8440e918e20,MENU,Low confidence (0.4),2026-09-03 08:23:40,b8328f301a11e28d,Dr. Hops,Leipzig,"Eichendorffstraße 7, 04277 Leipzig",https://www.dr-hops.de/
 1de961d5-73f4-4f96-bb29-a1e83d3fbef9,WEBSITE,website_status=UNAVAILABLE,2026-09-03 08:23:40,61b65fb176d3ade6,Tschoch,Leipzig,"Bornaische Straße 29, 04277 Leipzig",
+ab8275a9-479a-4975-8677-2b74c4aa092c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:20:08,de2da462d329fd0a,Betten Költzsch,Leipzig,"Wolfgang-Heinze-Straße 30, 04277 Leipzig",
+a6249ad7-59f1-4ddb-b19b-155a233a64f4,MENU,Candidates found but none validated,2026-09-03 12:20:21,53b95e77053cc1c7,StuK,Leipzig,"Nürnberger Straße 42, 04103 Leipzig",https://stuk-leipzig.de
+2328bdda-7f17-4c9b-b70a-ab512b171f82,MENU,Low confidence (0.4),2026-09-03 12:20:48,266e98b8785759bf,Destille,Leipzig,"Philipp-Rosenthal-Straße 31, 04103 Leipzig",https://www.destille.org
+52860c02-a640-40ff-a793-0a4afd1a28b1,MENU,Candidates found but none validated,2026-09-03 12:21:13,683ae2b502ab4313,VILLAkeller,Leipzig,"Lessingstraße 7, 04109 Leipzig",https://www.villakeller.de
+17f30ca6-14d9-45cc-9991-439c93a66bf8,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:21:14,7c2d88d48af339ca,sowiewir,Leipzig,,
+1dfdf47d-ebe3-47bf-8518-a69463414119,MENU,Candidates found but none validated,2026-09-03 12:21:30,2658f3819740101f,Hexenkessel,Leipzig,,http://www.hexenkessel-leipzig.com/
+e4607dd1-06d0-46d1-82a8-d7dbec9dc3bd,MENU,Candidates found but none validated,2026-09-03 12:21:59,c471e4a52a135a77,Flower Power,Leipzig,"Riemannstraße 42, 04107 Leipzig",https://flower-power.de/
+b215dcab-4fef-42dc-b0a7-ffd26fbb07db,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:21:59,16f75c7e6f5e9a04,Käfer,Leipzig,Wurzner Straße 99,
+bbd39618-6f2e-4953-b21a-096ad51b7ee9,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:22:00,0c12782db8bc0489,Frankenstube,Leipzig,"Wurzner Straße 22, 04315 Leipzig",
+7c4aa884-479c-44c7-95f6-22d89cc8bae1,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:22:01,c0549ccc14644bbd,M.F.G.,Leipzig,"Möckernsche Straße 2, 04155 Leipzig",
+ac02d09e-2efa-4fa1-acb5-35342827d392,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:22:47,9ec2f0ee14b9cc35,Bottoms Up,Dresden,"Martin-Luther-Straße 31, 01099 Dresden",
+4f6dbd5b-23d0-4959-8a87-1d85f3582ec3,MENU,Low confidence (0.4),2026-09-03 12:23:00,714a868c0499fe59,Wohnzimmer,Dresden,"Jordanstraße 27, 01099 Dresden",https://wohnzimmer-dresden.de/
+ecc851f7-88b5-4603-bcfb-77fffc29c339,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:23:20,5181b7bf0ad5914a,Kokolores,Dresden,"Rudolf-Leonhard-Straße 24,  Dresden",https://www.kokolores-dresden.de/
+8146f34c-b124-4fee-9033-3c5a340f2ecc,MENU,Candidates found but none validated,2026-09-03 12:23:33,5be5eaaa60d2dabb,Blumenau,Dresden,"Louisenstraße 67, 01099 Dresden",https://www.cafe-blumenau.de
+58ba7fa7-f974-4845-92f6-ecf5ea193713,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:23:33,614c389d71b93c27,Trotzdem,Dresden,,
+a311386c-88d1-48be-a8f8-01cc65d59f65,MENU,Candidates found but none validated,2026-09-03 12:23:47,f4a77bc8b28b24ee,Bar Holda,Dresden,"Martin-Luther-Platz 4, 01099 Dresden",http://www.bar-holda.de
+668f27fc-2f05-4c4f-b3ce-af7ed81c015e,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:23:47,75d35917c2584f98,Little Creatures,Dresden,"Louisenstraße 45, 01099 Dresden",
+027e6ce7-bd52-4fed-8b73-d5d6c6aca398,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:23:47,9ceb3aca8886fb08,Pawlow,Dresden,"Görlitzer Straße 32, 01099 Dresden",
+9022a8c7-2076-4b9e-9c92-9d31f74cdfee,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:23:47,49158929bdda1442,Mondfisch,Dresden,"Louisenstraße 37, 01099 Dresden",
+b2af246a-3d2b-4bd3-bbc1-63908b37d693,MENU,Low confidence (0.4),2026-09-03 12:25:11,c890cec1c676273b,El Cubanito,Dresden,"Sebnitzer Straße 8b, 01099 Dresden",https://www.elcubanitodresden.de/
+f7beac5f-8eaa-4351-91ba-010e5e13f5d6,MENU,Candidates found but none validated,2026-09-03 12:25:37,c9fca116b7aea3d5,Bautzner Tor,Dresden,"Hoyerswerdaer Straße 37, 01099 Dresden",https://www.bautznertor.de/
+22e83d06-770c-438f-8c84-e49c37785cad,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:25:37,f1285e96da4b23be,TB Fusion Kitchen,Dresden,"Bischofsplatz 2, 01097 Dresden",
+48dc7837-0e22-4792-a38d-5fbb4c4f69b3,WEBSITE,website_status=BLOCKED,2026-09-03 12:25:37,61aff54a5878d003,Studentenclub Bärenzwinger,Dresden,"Brühlscher Garten 1, 01067 Dresden",https://www.baerenzwinger.de/
+ef5ee2c8-5e46-4535-91c2-dfa3437abd2b,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:25:37,608ce2edaa438b91,HD - Die Rock& Metalbar,Dresden,"Louisenstraße 28, 01099 Dresden",
+57bf7dbf-b73a-42bb-9bdd-7d51d0ef147d,MENU,Candidates found but none validated,2026-09-03 12:26:09,8b2eeddf79bd30cc,Reck's,Dresden,,https://www.kneipen.de/dresden/recks-cafe-bierpub
+34703023-e379-4ec3-a716-c2e488481d29,MENU,Candidates found but none validated,2026-09-03 12:26:36,6bc14ad3019c56d6,Zur Schmiede,Dresden,"Hechtstraße 15, 01097 Dresden",https://zur-schmiede-dresden.de/
+f59db6f6-97a0-4885-9676-602d852ff88d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:26:36,ce51f5caa3131da6,Rauchereck Zwingli,Dresden,,
+7beee465-82f8-4e3b-99ed-1a5ebb43c3fa,MENU,Candidates found but none validated,2026-09-03 12:26:50,3d383c329e715750,Novitatis,Dresden,"Fritz-Löffler-Straße 12c, 01069 Dresden",https://novitatis.de/
+8351f1c6-e1fe-49c5-985a-b79a8475dd80,MENU,Low confidence (0.4),2026-09-03 12:27:10,dd246b4f386fffbf,Club 11,Dresden,"Hochschulstraße 48, 01069 Dresden",https://www.clubelf.de/
+035fc0c7-8b35-4e6c-a271-f97d75353616,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:27:10,359f9dac6d0c6ab3,Stadt Dresden,Dresden,,
+8dc4047f-76be-455f-bf20-026785ad0232,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:27:10,e380310670940219,Aquarium,Dresden,,
+530deb3f-025a-4860-a8f9-1004f9f26568,MENU,Candidates found but none validated,2026-09-03 12:27:47,837cbbf30afbb462,Die Reisekneipe,Dresden,"Görlitzer Straße 15, 01099 Dresden",http://www.reise-kneipe.de/
+541b1572-2e58-498c-9bf8-51723fab11af,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:28:10,a3ff3689e4355e8b,Kakadu-Bar,Dresden,,
+f1bddaf1-c803-44cb-bfa3-781aa88f4d46,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:28:10,e1df35bb68c33727,BierBar Ass,Dresden,"Grunaer Straße 23,  Dresden",
+2b0ad515-b8d9-414d-af4b-56327a8b189c,MENU,Candidates found but none validated,2026-09-03 12:28:23,b489564cd78e8f77,Laika,Dresden,"Kamenzer Straße 20, 01099 Dresden",http://www.cafe-laika.de/
+00165dec-9f92-4bef-a4f1-561b0bd4db6a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:28:23,99710cc255930492,Steinhaus,Dresden,"Rehefelder Straße 63, 01127 Dresden",
+24c4ff69-cf71-47f8-8e67-bc35a6c24735,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:28:37,5262c783e6826521,Charly Tag & Nacht,Dresden,,
+454d96fe-d45e-4ca2-acac-d9b1e49a851f,MENU,Candidates found but none validated,2026-09-03 12:29:06,b26cf40a9129186d,BBC - Bar Brasserie Cassis,Dresden,"Alaunstraße 18, 01099 Dresden",http://www.bbc-dresden.de
+35e9ca33-ae9f-4cc4-8d13-fc6cade29739,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:29:06,fced87489d10851d,61 Alaunbar,Dresden,"Alaunstraße 61, 01099 Dresden",
+75a5496b-6f9e-460f-a9a1-2e442451305a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:29:23,1b925781debba182,Die 100,Dresden,"Alaunstraße 100, 01099 Dresden",https://www.diehundert.org
+c3f37963-efab-45c6-b852-9c906a863ef3,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:29:23,b8c49e5f28aae612,"Lappen, the",Dresden,"Louisenstraße 83, 01099 Dresden",
+7cac3dc6-038b-4282-af60-5cfcf15155a9,MENU,Low confidence (0.4),2026-09-03 12:29:40,d4f80f721d28c46a,Gutzkowclub,Dresden,"Gutzkowstraße 29-33, 01069 Dresden",http://gutzkow-club.de/
+39cddd8e-16e4-4451-bcca-4695e300aaaf,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:29:40,1cc58385d9e61c4f,Crambambuli,Dresden,,
+a3bb42eb-009b-4ec3-a295-9a84ce6a6f5c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:29:40,1e39004df9561ed4,Lebowski,Dresden,"Görlitzer Straße 5, 01099 Dresden",
+c4c62e13-a5cf-42d0-845d-e8f5ae664b87,MENU,Candidates found but none validated,2026-09-03 12:29:55,74eec16442475447,Blue Note,Dresden,"Görlitzer Straße 2b, 01099 Dresden",http://www.bluenote-dresden.de
+db3cf624-0bec-4f02-9121-88c8332d0252,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:31:22,c14bcb76574ca54d,Top Eck,Dresden,"Pfotenhauerstraße 84, 01307 Dresden",
+1db69458-fa01-457e-8621-c9319dc2569c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:31:22,9d9cdf01b3742e2c,Schmidt's Bistro-Bar,Dresden,,
+df831d52-2e2e-416e-8ef0-f436d64bc39e,MENU,Candidates found but none validated,2026-09-03 12:32:15,381be7974b0330f1,Studentenclub Borsi34,Dresden,"Borsbergstraße 34, 01309 Dresden",http://www.borsi34.de
+4fd324ae-5d28-4428-8183-d5d3028a1850,MENU,Low confidence (0.4),2026-09-03 12:33:10,e903a1812f1b9a7d,Straußwirtschaft Weingut Müller,Dresden,,https://www.winzer-lutz-mueller.de
+e47c1c94-af59-4f91-8846-72750a1c4954,MENU,Low confidence (0.4),2026-09-03 12:33:29,4119496bf5ff4a11,Madness,Dresden,"Görlitzer Straße 23, 01099 Dresden",https://www.madness-dresden.de/
+0303ae37-9280-404c-a590-d10fe477a67a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:33:29,74183f8e25b46200,Fiasko,Dresden,"Görlitzer Straße 22, 01099 Dresden",
+044a6c23-acf9-423f-bb16-69d96cbd5c11,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:33:29,f97b7a60a11b7550,Irish Castle Pub,Nuremberg,"Schlehengasse 31, 90402 Nürnberg",https://www.irish-castle.pub
+54f2e20d-5dfc-4a74-97f9-9591e4c44074,MENU,Candidates found but none validated,2026-09-03 12:34:30,357a0d4c799cc6c4,Singularis Porcus,Nuremberg,"Harsdörfferstraße 8, 90478 Nürnberg",https://web.archive.org/web/20210226214637/http://singularis-porcus.de/
+3a19d90d-3a37-45ef-b916-3f1f75965723,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:34:30,0c587c2ecc983761,Sieben,Nuremberg,"Helmstraße 7, 90419 Nürnberg",
+5c8fe381-9fbe-4557-b614-d9fa9a83bf90,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:34:30,f75410694ae5e850,Pils-Stube Pressetreff,Nuremberg,"Marienstraße 14, 90402 Nürnberg",
+78ab49e3-fb19-4cf5-9fb9-6e9ef938c014,MENU,Candidates found but none validated,2026-09-03 12:34:37,c687951db4b22c4f,Brown Sugar,Nuremberg,"Königstorgraben 3, 90402 Nürnberg",https://brownsugarrockcafe.de/
+da0217b3-a4bd-40ec-ba51-0bf0fd428b11,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:34:37,f755c8910b95e2b1,Häfala,Nuremberg,,
+e4a0b23a-ca67-4bd8-af26-a4cd5357fa09,WEBSITE,website_status=BLOCKED,2026-09-03 12:34:37,fbab0ddcf278acad,Garage,Nuremberg,"Rennweg 12, 90489 Nürnberg",https://cafe-bar-garage.jimdosite.com/

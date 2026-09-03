@@ -956,48 +956,48 @@ bcb436ebaeb7561a,Zum Salamander,Düsseldorf,,,,NONE,2,overpass_osm,WEBSITE_UNAVA
 49c59fec5d86754a,Zum Tuppes,Düsseldorf,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 05:35:27
 376eebf56fb5e59f,Zur Alten Apotheke,Düsseldorf,"Bücherstraße 18, 40593 Düsseldorf",https://www.theke-urdenbach.de/,https://www.theke-urdenbach.de/getränkekarte,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 05:36:30
 c4a95f9a07c7db06,Zur Schönau,Düsseldorf,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 05:35:27
-86b3f353071bfaac,Acanto,Hanover,"Dragonerstraße 28, 30163 Hannover",,,,2,overpass_osm,,
+86b3f353071bfaac,Acanto,Hanover,"Dragonerstraße 28, 30163 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:04
 123e2cd30a26e53d,Alem,Hanover,"Königstraße 7, 30175 Hannover",,,,2,overpass_osm,,
 a6234b8596e55ee4,Burgklause,Hanover,"Burgstraße 11, 30159 Hanover",,,,2,overpass_osm,,
 949a64174f77dd3e,CLASSICO,Hanover,,,,,2,overpass_osm,,
 e21e0c38d51a751d,Chiko's Bar,Hanover,,,,,2,overpass_osm,,
-7736e687b8d0dad0,Clubgaststätte TC Bischofshol,Hanover,,,,,2,overpass_osm,,
-441586b08d1c816f,Das Ei,Hanover,,,,,2,overpass_osm,,
+7736e687b8d0dad0,Clubgaststätte TC Bischofshol,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:51
+441586b08d1c816f,Das Ei,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:45
 4aaabc0b2e91c89c,Das kleine Fiasko,Hanover,"Wilhelm-Bluhm-Straße 25, 30451 Hannover",,,,2,overpass_osm,,
-82d9e5ce2987f50e,Debakel,Hanover,"Limmerstraße 92, 30451 Hannover",http://www.debakel-linden.de,,,2,overpass_osm,,
-72e32118e48d73e7,Edenstube,Hanover,,,,,2,overpass_osm,,
+82d9e5ce2987f50e,Debakel,Hanover,"Limmerstraße 92, 30451 Hannover",http://www.debakel-linden.de,http://www.debakel-linden.de/debakel speisekarte 25.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:19:04
+72e32118e48d73e7,Edenstube,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:19:04
 879949680766fc42,Efes Pub,Hanover,"Goethestraße 6c, 30169 Hannover",,,,2,overpass_osm,,
-ea1cb5df4007b4a0,Extrakt,Hanover,"Hahnenstraße 3, 30167 Hannover",,,,2,overpass_osm,,
-e3edc5af4464df3f,Fiedel,Hanover,,,,,2,overpass_osm,,
-b007fd6ab374c61e,Finesse Lounge,Hanover,,,,,2,overpass_osm,,
+ea1cb5df4007b4a0,Extrakt,Hanover,"Hahnenstraße 3, 30167 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:18
+e3edc5af4464df3f,Fiedel,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:20:20
+b007fd6ab374c61e,Finesse Lounge,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:04
 25f04ab93acdab3e,Floris Bar,Hanover,"Hildesheimer Straße 115, 30173 Hannover",https://www.floris-bar.de/,,,2,overpass_osm,,
-8ef55a779481dd23,Grotte,Hanover,,https://grotte-hannover.de/,,,2,overpass_osm,,
-fac1e14daa986636,Hamburger Botschaft,Hanover,"Egestorffstraße 5, 30449 Hannover",https://hamburgerbotschaft.de/,,,2,overpass_osm,,
+8ef55a779481dd23,Grotte,Hanover,,https://grotte-hannover.de/,https://grotte-hannover.de/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:19:24
+fac1e14daa986636,Hamburger Botschaft,Hanover,"Egestorffstraße 5, 30449 Hannover",https://hamburgerbotschaft.de/,https://hamburgerbotschaft.de/speise-und-getraenkekarte/,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:20:20
 27b224cb62d9590d,Heaven,Hanover,,,,,2,overpass_osm,,
-6a44d7f00638e362,Hedonist,Hanover,"Ferdinand-Wallbrecht-Straße 44, 30163 Hannover",,,,2,overpass_osm,,
-5f29b7eab111e9ca,Izarro,Hanover,"Ahlemer Straße 5, 30451 Hannover",https://www.estrella-gastro.de/izarro-sportsbar.html,,,2,overpass_osm,,
-77487445ac599a89,Kalah,Hanover,"Velberstraße 5, 30451 Hannover",,,,2,overpass_osm,,
+6a44d7f00638e362,Hedonist,Hanover,"Ferdinand-Wallbrecht-Straße 44, 30163 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:04
+5f29b7eab111e9ca,Izarro,Hanover,"Ahlemer Straße 5, 30451 Hannover",https://www.estrella-gastro.de/izarro-sportsbar.html,https://www.estrella-gastro.de/karte,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:18:45
+77487445ac599a89,Kalah,Hanover,"Velberstraße 5, 30451 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:45
 84c5279cf10064bb,Kawa The Hut,Hanover,"Stärkestraße 26, 30451 Hannover",,,,2,overpass_osm,,
 da2365b0c8aded33,Krökelbar,Hanover,"Georgstraße 50b, 30159 Hannover",https://www.kroekelbar.de/,,,2,overpass_osm,,
-1672c0297cc8e386,Kuriosum,Hanover,"Schneiderberg 14, 30167 Hannover",http://www.kuriosum.com/,,,2,overpass_osm,,
+1672c0297cc8e386,Kuriosum,Hanover,"Schneiderberg 14, 30167 Hannover",http://www.kuriosum.com/,http://www.kuriosum.com/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:18:04
 b1890d31e56c33cc,La Boheme,Hanover,"Groß-Buchholzer Kirchweg 71, 30655 Hannover",,,,2,overpass_osm,,
 ac0d720e064e2a60,Lieb ich 5,Hanover,"Liebigstraße 5, 30163 Hannover",,,,2,overpass_osm,,
 482eb5186d563c8f,Mega Star Bistro,Hanover,,,,,2,overpass_osm,,
 055a5aaec88ce526,Meineid,Hanover,,,,,2,overpass_osm,,
 b481fbdeb8d0782a,Mendelssohn Stübchen,Hanover,"Mendelssohnstraße 56, 30173 Hannover",,,,2,overpass_osm,,
-bc8dec293ed9716c,Mylife Makaveli,Hanover,,,,,2,overpass_osm,,
+bc8dec293ed9716c,Mylife Makaveli,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:04
 e9939a99f33ca81d,Notre Dame,Hanover,"Offensteinstraße 1, 30451 Hannover",,,,2,overpass_osm,,
-3006a6f0dc1ab511,Peanuts,Hanover,"Voßstraße 20, 30161 Hannover",http://www.hannover-peanuts.de/,,,2,overpass_osm,,
-7b5a2bf849854db1,Pestalozzi-Klause,Hanover,,,,,2,overpass_osm,,
-686868d5e029dd0a,Pinte Poing,Hanover,", 30167 Hanover",,,,2,overpass_osm,,
-93966bdb60c5955b,Plümecke,Hanover,"Voßstraße 39, 30161 Hannover",,,,2,overpass_osm,,
+3006a6f0dc1ab511,Peanuts,Hanover,"Voßstraße 20, 30161 Hannover",http://www.hannover-peanuts.de/,http://www.hannover-peanuts.de/bilder/NavKarte/,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:18:18
+7b5a2bf849854db1,Pestalozzi-Klause,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:50
+686868d5e029dd0a,Pinte Poing,Hanover,", 30167 Hanover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:18
+93966bdb60c5955b,Plümecke,Hanover,"Voßstraße 39, 30161 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:51
 136da1209799e82b,Prost,Hanover,,,,,2,overpass_osm,,
-3fa1a887eb5e8d84,Ramberg Eck,Hanover,,,,,2,overpass_osm,,
-6b2497b3b9e328f5,Safrans Bar,Hanover,,,,,2,overpass_osm,,
+3fa1a887eb5e8d84,Ramberg Eck,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:19:27
+6b2497b3b9e328f5,Safrans Bar,Hanover,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:04
 d53a83a28eda996a,Santana,Hanover,"Rehbockstraße 38, 30167 Hannover",http://www.santana-hannover.de/,,,2,overpass_osm,,
 ceb8cbce6e212ed4,Schildbürger (96-Spiele live),Hanover,,,,,2,overpass_osm,,
-98eccdff655ade69,Seña,Hanover,,https://bar-sena.com/,,,2,overpass_osm,,
-231b0ebec9fc167d,Shakespeare,Hanover,,https://english-pub.de,,,2,overpass_osm,,
+98eccdff655ade69,Seña,Hanover,,https://bar-sena.com/,https://bar-sena.com/SenaGetraenkekarte2025_02.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:19:27
+231b0ebec9fc167d,Shakespeare,Hanover,,https://english-pub.de,https://english-pub.de,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:18:50
 f0cb3052913febd8,SoundShake,Hanover,"Escherstraße 11, 30159 Hannover",,,,2,overpass_osm,,
 5af8f9ab671e0276,Spektakel,Hanover,,,,,2,overpass_osm,,
 58d7beaee145543f,Stadtweg Stübchen,Hanover,"Pfarrstraße 46, 30459 Hannover",,,,2,overpass_osm,,
@@ -1005,10 +1005,10 @@ f0cb3052913febd8,SoundShake,Hanover,"Escherstraße 11, 30159 Hannover",,,,2,over
 5bdca7cee8b59118,Stubenwechsel,Hanover,"Kötnerholzweg 30, 30451 Hannover",,,,2,overpass_osm,,
 8286285c2672ba3b,Südstädter Treppchen,Hanover,"Heinrich-Heine-Straße 10, 30173 Hannover",,,,2,overpass_osm,,
 c2828bba50b758c3,Tango Milieu,Hanover,,https://www.tango-milieu.de/,,,2,overpass_osm,,
-141430dcf8d21ce8,The Irish Pub,Hanover,"Brüderstraße 4,  Hannover",http://www.irishpub-hannover.de/,,,2,overpass_osm,,
-8ecb78745faaa66e,Tigris,Hanover,,https://tigris-linden.de/,,,2,overpass_osm,,
-ba8ea4a0aff4e8dc,Vereinsgaststätte TuS Kleefeld,Hanover,"Kleestraße 50, 30625 Hannover",,,,2,overpass_osm,,
-421dd3e678953cc6,Was Nun,Hanover,"Am Kleinen Felde 21, 30167 Hannover",https://www.wasnun.com/,,,2,overpass_osm,,
+141430dcf8d21ce8,The Irish Pub,Hanover,"Brüderstraße 4,  Hannover",http://www.irishpub-hannover.de/,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:18:45
+8ecb78745faaa66e,Tigris,Hanover,,https://tigris-linden.de/,https://tigris-linden.de/Tigris-Speisen u. Getränke.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:19:41
+ba8ea4a0aff4e8dc,Vereinsgaststätte TuS Kleefeld,Hanover,"Kleestraße 50, 30625 Hannover",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:19:04
+421dd3e678953cc6,Was Nun,Hanover,"Am Kleinen Felde 21, 30167 Hannover",https://www.wasnun.com/,https://www.wasnun.com/,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:18:31
 c0a4e5c5e630d3d2,Zapfhahn,Hanover,,,,,2,overpass_osm,,
 b554130e3b51571d,ælling,Hanover,Böhmerstraße 17,https://www.aelling.de/,,,2,overpass_osm,,
 c5c375f5223d2987,Barfly,Leipzig,Karl-Liebknecht-Straße 79,http://barfly-leipzig.de,http://barfly-leipzig.de/index.php/menu/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 08:59:06
@@ -1067,61 +1067,61 @@ e6f215ca471ad21e,Ritas Play Off,Leipzig,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILAB
 1c54422cc0724973,Zur Scheune,Leipzig,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:19:45
 dec6fd046fc29f90,skala,Leipzig,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 08:19:06
 7c2d88d48af339ca,sowiewir,Leipzig,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:21:14
-62a384d20fb05446,Bar59,Nuremberg,"Johannesgasse 59, 90402 Nürnberg",,,,2,overpass_osm,,
-924953bf21406fd0,Bela Lugosi,Nuremberg,"Marienstraße 25, 90402 Nürnberg",http://www.bela-lugosi.de,,,2,overpass_osm,,
-42313b6eccf3ddcf,Bert's,Nuremberg,"Wiesenstraße 85, 90459 Nürnberg",,,,2,overpass_osm,,
-2326317ccbd3a7b3,Bieramt Wanderer,Nuremberg,"Beim Tiergärtnertor 6, 90403 Nürnberg",https://www.cafe-wanderer.de/bieramt/,,,2,overpass_osm,,
-247b22d5a096a073,Bierfäßla,Nuremberg,"Peterstraße 62, 90478 Nürnberg",,,,2,overpass_osm,,
-58f7f8cce6acca60,Bierwerk,Nuremberg,"Unschlittplatz 9, 90403 Nürnberg",https://charakterbierbar.bierwerk-nuernberg.de/,,,2,overpass_osm,,
-4b22568330fef2c1,Bierwirtschaft Nordostbahnhof,Nuremberg,Äußere Bayreuther Straße 101,,,,2,overpass_osm,,
-8821f95edb6aa541,Bliss,Nuremberg,"Adlerstraße 14, 90403 Nürnberg",,,,2,overpass_osm,,
-6f43325364f50273,Blu Bowl,Nuremberg,"Zeltnerstraße 19, 90443 Nürnberg",https://www.blu-bowl.com/,,,2,overpass_osm,,
-4f808cc8ab6ade6f,Blume von Hawaii,Nuremberg,"Weinmarkt 16, 90403 Nürnberg",https://blumevonhawaii.com/,,,2,overpass_osm,,
-9cc3e751a87e4616,Brosamerie,Nuremberg,"Brosamerstraße 12, 90459 Nürnberg",https://www.casablanca-nuernberg.de/casablanca/brosamerie,,,2,overpass_osm,,
+62a384d20fb05446,Bar59,Nuremberg,"Johannesgasse 59, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+924953bf21406fd0,Bela Lugosi,Nuremberg,"Marienstraße 25, 90402 Nürnberg",http://www.bela-lugosi.de,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:09
+42313b6eccf3ddcf,Bert's,Nuremberg,"Wiesenstraße 85, 90459 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+2326317ccbd3a7b3,Bieramt Wanderer,Nuremberg,"Beim Tiergärtnertor 6, 90403 Nürnberg",https://www.cafe-wanderer.de/bieramt/,https://www.cafe-wanderer.de/bieramt/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:16:39
+247b22d5a096a073,Bierfäßla,Nuremberg,"Peterstraße 62, 90478 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+58f7f8cce6acca60,Bierwerk,Nuremberg,"Unschlittplatz 9, 90403 Nürnberg",https://charakterbierbar.bierwerk-nuernberg.de/,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+4b22568330fef2c1,Bierwirtschaft Nordostbahnhof,Nuremberg,Äußere Bayreuther Straße 101,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:06
+8821f95edb6aa541,Bliss,Nuremberg,"Adlerstraße 14, 90403 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
+6f43325364f50273,Blu Bowl,Nuremberg,"Zeltnerstraße 19, 90443 Nürnberg",https://www.blu-bowl.com/,https://www.blu-bowl.com/restaurant#UnsereSpeisekarten,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:16:23
+4f808cc8ab6ade6f,Blume von Hawaii,Nuremberg,"Weinmarkt 16, 90403 Nürnberg",https://blumevonhawaii.com/,https://blumevonhawaii.com/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:16:01
+9cc3e751a87e4616,Brosamerie,Nuremberg,"Brosamerstraße 12, 90459 Nürnberg",https://www.casablanca-nuernberg.de/casablanca/brosamerie,https://www.casablanca-nuernberg.de/wp-content/uploads/2026/07/Brosikarte_2026-04-CF_Druck2.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:17:48
 c687951db4b22c4f,Brown Sugar,Nuremberg,"Königstorgraben 3, 90402 Nürnberg",https://brownsugarrockcafe.de/,https://drive.google.com/file/d/1I03C1m-BFpwcDukQv67nQkkd6XuUXVbu/view?usp=sharing,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 12:34:37
-c4d400c8c27d2e6d,Bucher Eck,Nuremberg,"Bucher Straße 72, 90408 Nürnberg",,,,2,overpass_osm,,
-5043fbbdd64a84a0,Caffé Fatal,Nuremberg,"Jagdstraße 16, 90419 Nürnberg",https://www.caffe-fatal.de/,,,2,overpass_osm,,
-6dde40de6b18397d,Casa del Habano,Nuremberg,,,,,2,overpass_osm,,
-5b405c658725026e,Der Gostenhofer Dorfschulze,Nuremberg,"Bärenschanzstraße 121, 90429 Nürnberg",,,,2,overpass_osm,,
-ad2eb86355fffe13,Die Zwiebel,Nuremberg,"Kirchenstraße 25, 90478 Nürnberg",,,,2,overpass_osm,,
-53f17b895b2ec7e6,Die unauffindBAR,Nuremberg,"Untere Wörthstraße 7, 90403 Nürnberg",,,,2,overpass_osm,,
-77cd66731e06fd8a,Feuerbach,Nuremberg,"Ludwig-Feuerbach-Straße 85, 90489 Nürnberg",,,,2,overpass_osm,,
-acc53ac9ec78b7b6,Fränkische Weinstube,Nuremberg,"Königs- und Frauentorzwinger 5, 90402 Nürnberg",https://www.fraenkischeweinstube.com/,,,2,overpass_osm,,
+c4d400c8c27d2e6d,Bucher Eck,Nuremberg,"Bucher Straße 72, 90408 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+5043fbbdd64a84a0,Caffé Fatal,Nuremberg,"Jagdstraße 16, 90419 Nürnberg",https://www.caffe-fatal.de/,https://www.caffe-fatal.de/assets/files/Cafe_Fatal_Nurnberg_Speisekarte_2025.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:17:51
+6dde40de6b18397d,Casa del Habano,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+5b405c658725026e,Der Gostenhofer Dorfschulze,Nuremberg,"Bärenschanzstraße 121, 90429 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+ad2eb86355fffe13,Die Zwiebel,Nuremberg,"Kirchenstraße 25, 90478 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:02
+53f17b895b2ec7e6,Die unauffindBAR,Nuremberg,"Untere Wörthstraße 7, 90403 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:48
+77cd66731e06fd8a,Feuerbach,Nuremberg,"Ludwig-Feuerbach-Straße 85, 90489 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:48
+acc53ac9ec78b7b6,Fränkische Weinstube,Nuremberg,"Königs- und Frauentorzwinger 5, 90402 Nürnberg",https://www.fraenkischeweinstube.com/,https://cdn.prod.website-files.com/6491c96fc17aa7d56de62b66/696fc10cbdab254c34cc77cc_FSW_Speisekarte_Website_2025-12_01_DE.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:17:28
 fbab0ddcf278acad,Garage,Nuremberg,"Rennweg 12, 90489 Nürnberg",https://cafe-bar-garage.jimdosite.com/,,NONE,2,overpass_osm,BLOCKED,2026-09-03 12:34:37
-12f8bdabcf4d0885,Gelbes Haus,Nuremberg,"Johannisstraße 40, 90419 Nürnberg",https://www.gelbes-haus.de/,,,2,overpass_osm,,
-f998b30a8afa93c3,Guantanamera,Nuremberg,,,,,2,overpass_osm,,
-68962c5a2a06211e,Haltestelle Hering,Nuremberg,"Klaragasse 11, 90402 Nürnberg",,,,2,overpass_osm,,
+12f8bdabcf4d0885,Gelbes Haus,Nuremberg,"Johannisstraße 40, 90419 Nürnberg",https://www.gelbes-haus.de/,https://www.gelbes-haus.de/cocktailbar/barkarten/,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:16:08
+f998b30a8afa93c3,Guantanamera,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:23
+68962c5a2a06211e,Haltestelle Hering,Nuremberg,"Klaragasse 11, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
 f755c8910b95e2b1,Häfala,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:34:37
 f97b7a60a11b7550,Irish Castle Pub,Nuremberg,"Schlehengasse 31, 90402 Nürnberg",https://www.irish-castle.pub,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:33:29
-9cd324afcf692b5f,Kilians Irish Pub,Nuremberg,"Hallplatz 21, 90402 Nürnberg",,,,2,overpass_osm,,
-5b03d465dc631f6e,Kosovo Bar,Nuremberg,,,,,2,overpass_osm,,
-c63f0361b0c0d777,Lambada,Nuremberg,,,,,2,overpass_osm,,
-2b0f453ba72d2de9,Mata Hari Bar,Nuremberg,"Weißgerbergasse 31, 90403 Nürnberg",https://mataharibar.de/,,,2,overpass_osm,,
-8513e16784a89176,Metropolitan,Nuremberg,,,,,2,overpass_osm,,
-12ba17e7fa307c65,Mitte,Nuremberg,,,,,2,overpass_osm,,
-088c5416b5466512,Mono Bar,Nuremberg,"Klaragasse 13, 90402 Nürnberg",,,,2,overpass_osm,,
-d0da5b41d1dba228,N°14,Nuremberg,"Adlerstraße 14, 90403 Nürnberg",,,,2,overpass_osm,,
-f485fd31212cc575,Nürnberger Trichter,Nuremberg,"Theatergasse 15, 90402 Nürnberg",,,,2,overpass_osm,,
-6d047c0c6183119f,Original Bar,Nuremberg,"Klaragasse 24, 90402 Nürnberg",,,,2,overpass_osm,,
-bdfd3a292d7c5691,Pigalle,Nuremberg,"Pfeifergasse 2a, 90402 Nürnberg",,,,2,overpass_osm,,
+9cd324afcf692b5f,Kilians Irish Pub,Nuremberg,"Hallplatz 21, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+5b03d465dc631f6e,Kosovo Bar,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+c63f0361b0c0d777,Lambada,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+2b0f453ba72d2de9,Mata Hari Bar,Nuremberg,"Weißgerbergasse 31, 90403 Nürnberg",https://mataharibar.de/,https://www.mataharibar.de/images/karte.pdf,PDF,2,overpass_osm,VALID_MENU,2026-09-03 16:16:05
+8513e16784a89176,Metropolitan,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:25
+12ba17e7fa307c65,Mitte,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+088c5416b5466512,Mono Bar,Nuremberg,"Klaragasse 13, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
+d0da5b41d1dba228,N°14,Nuremberg,"Adlerstraße 14, 90403 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
+f485fd31212cc575,Nürnberger Trichter,Nuremberg,"Theatergasse 15, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+6d047c0c6183119f,Original Bar,Nuremberg,"Klaragasse 24, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:09
+bdfd3a292d7c5691,Pigalle,Nuremberg,"Pfeifergasse 2a, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
 f75410694ae5e850,Pils-Stube Pressetreff,Nuremberg,"Marienstraße 14, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:34:30
-3969bbbc500239a8,Pilsstube Bayreuther Hof,Nuremberg,"Äußere Bayreuther Straße 123, 90409 Nürnberg",,,,2,overpass_osm,,
-93f089b344958e3c,Pintus,Nuremberg,"Ludwigstraße 39, 90402 Nürnberg",,,,2,overpass_osm,,
-71aa280602727f11,Pontiki,Nuremberg,"Troststraße 1, 90429 Nürnberg",https://pontiki-tropical-cafe-bar.business.site/,,,2,overpass_osm,,
-a86f192ef52837a0,Poupette,Nuremberg,"Johannesgasse 22, 90402 Nürnberg",,,,2,overpass_osm,,
-717c15b0cec43464,Salzbrunner's,Nuremberg,"Salzbrunner Straße 11, 90473 Nürnberg",,,,2,overpass_osm,,
-cc20cc6366061cf2,Schräges Eck,Nuremberg,"Kernstraße 19, 90429 Nürnberg",,,,2,overpass_osm,,
+3969bbbc500239a8,Pilsstube Bayreuther Hof,Nuremberg,"Äußere Bayreuther Straße 123, 90409 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:48
+93f089b344958e3c,Pintus,Nuremberg,"Ludwigstraße 39, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
+71aa280602727f11,Pontiki,Nuremberg,"Troststraße 1, 90429 Nürnberg",https://pontiki-tropical-cafe-bar.business.site/,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+a86f192ef52837a0,Poupette,Nuremberg,"Johannesgasse 22, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+717c15b0cec43464,Salzbrunner's,Nuremberg,"Salzbrunner Straße 11, 90473 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+cc20cc6366061cf2,Schräges Eck,Nuremberg,"Kernstraße 19, 90429 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:48
 0c587c2ecc983761,Sieben,Nuremberg,"Helmstraße 7, 90419 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 12:34:30
 357a0d4c799cc6c4,Singularis Porcus,Nuremberg,"Harsdörfferstraße 8, 90478 Nürnberg",https://web.archive.org/web/20210226214637/http://singularis-porcus.de/,https://web.archive.org/web/20210226214637/http://singularis-porcus.de/,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 12:34:30
-9dfd758dbad4ee3f,Sportsbar,Nuremberg,,,,,2,overpass_osm,,
-c2d0c77f6ab00e5c,Sputnik,Nuremberg,"Hallplatz 29, 90402 Nürnberg",,,,2,overpass_osm,,
-39fbd9cf4a3e0b1c,Weissbier Hex,Nuremberg,"Jakobstraße 17, 90402 Nürnberg",,,,2,overpass_osm,,
-0fede264242230ac,Zoom,Nuremberg,"Fenitzerstraße 12, 90489 Nürnberg",,,,2,overpass_osm,,
-1245eac92dd9cdb7,Zum Kutscher,Nuremberg,"Laufamholzstraße 53, 90482 Nürnberg",,,,2,overpass_osm,,
-11fe6a0691b1a141,dieroteBar,Nuremberg,"Peter-Vischer-Straße 3, 90403 Nürnberg",https://dierotebar.net/,,,2,overpass_osm,,
-36e8801e0ad26224,einfachso,Nuremberg,"Wodanstraße 26, 90402 Nürnberg",https://www.facebook.com/Einfachsonuernberg/,,,2,overpass_osm,,
-f434aae72af928e5,frida kahlo,Nuremberg,"Pleydenwurffstraße 1, 90408 Nürnberg",https://www.cafe-fridakahlo.de/,,,2,overpass_osm,,
-ade1c66a01b794f7,la bas,Nuremberg,"Hallplatz 31, 90402 Nürnberg",,,,2,overpass_osm,,
+9dfd758dbad4ee3f,Sportsbar,Nuremberg,,,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:25
+c2d0c77f6ab00e5c,Sputnik,Nuremberg,"Hallplatz 29, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
+39fbd9cf4a3e0b1c,Weissbier Hex,Nuremberg,"Jakobstraße 17, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:02
+0fede264242230ac,Zoom,Nuremberg,"Fenitzerstraße 12, 90489 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:41
+1245eac92dd9cdb7,Zum Kutscher,Nuremberg,"Laufamholzstraße 53, 90482 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:17:48
+11fe6a0691b1a141,dieroteBar,Nuremberg,"Peter-Vischer-Straße 3, 90403 Nürnberg",https://dierotebar.net/,https://menury.com/i/e0b0,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:17:15
+36e8801e0ad26224,einfachso,Nuremberg,"Wodanstraße 26, 90402 Nürnberg",https://www.facebook.com/Einfachsonuernberg/,https://www.facebook.com/menu,HTML_PAGE,2,overpass_osm,NO_MENU_FOUND,2026-09-03 16:17:02
+f434aae72af928e5,frida kahlo,Nuremberg,"Pleydenwurffstraße 1, 90408 Nürnberg",https://www.cafe-fridakahlo.de/,https://www.cafe-fridakahlo.de/cocktails,HTML_PAGE,2,overpass_osm,VALID_MENU,2026-09-03 16:17:41
+ade1c66a01b794f7,la bas,Nuremberg,"Hallplatz 31, 90402 Nürnberg",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 16:16:39
 cf7635fdfd858dbf,1. Stock,Stuttgart,"Steinstraße 13, 70173 Stuttgart",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 05:36:54
 816c22d56784749c,Allouett,Stuttgart,"Burgunderstraße 3, 70435 Stuttgart",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 05:36:54
 9479fd308f15027c,Alte Schule,Stuttgart,"Gablenberger Hauptstraße 128, 70186 Stuttgart",,,NONE,2,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 05:36:54

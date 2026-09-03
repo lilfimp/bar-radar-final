@@ -945,3 +945,63 @@ e47c1c94-af59-4f91-8846-72750a1c4954,MENU,Low confidence (0.4),2026-09-03 12:33:
 78ab49e3-fb19-4cf5-9fb9-6e9ef938c014,MENU,Candidates found but none validated,2026-09-03 12:34:37,c687951db4b22c4f,Brown Sugar,Nuremberg,"Königstorgraben 3, 90402 Nürnberg",https://brownsugarrockcafe.de/
 da0217b3-a4bd-40ec-ba51-0bf0fd428b11,WEBSITE,website_status=UNAVAILABLE,2026-09-03 12:34:37,f755c8910b95e2b1,Häfala,Nuremberg,,
 e4a0b23a-ca67-4bd8-af26-a4cd5357fa09,WEBSITE,website_status=BLOCKED,2026-09-03 12:34:37,fbab0ddcf278acad,Garage,Nuremberg,"Rennweg 12, 90489 Nürnberg",https://cafe-bar-garage.jimdosite.com/
+4600b68c-6342-464f-8d74-78cf66074621,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:02,ad2eb86355fffe13,Die Zwiebel,Nuremberg,"Kirchenstraße 25, 90478 Nürnberg",
+03fe9429-2add-4c79-91e1-d72a3145930b,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:06,4b22568330fef2c1,Bierwirtschaft Nordostbahnhof,Nuremberg,Äußere Bayreuther Straße 101,
+9bcca712-c4ee-4eaa-ba33-021e8edc3da8,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:09,924953bf21406fd0,Bela Lugosi,Nuremberg,"Marienstraße 25, 90402 Nürnberg",http://www.bela-lugosi.de
+587d4313-969c-44d7-b8ca-96f2e148f655,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:09,6d047c0c6183119f,Original Bar,Nuremberg,"Klaragasse 24, 90402 Nürnberg",
+bbabdea5-4870-4dcc-adf0-896530856867,MENU,Candidates found but none validated,2026-09-03 16:16:23,6f43325364f50273,Blu Bowl,Nuremberg,"Zeltnerstraße 19, 90443 Nürnberg",https://www.blu-bowl.com/
+a16c287f-a981-4312-ad4d-db61ca1721c5,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:23,f998b30a8afa93c3,Guantanamera,Nuremberg,,
+994bd1b3-ef30-4967-b2e9-ee916071ad53,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:25,8513e16784a89176,Metropolitan,Nuremberg,,
+98210f5f-0d95-48f8-b507-047932d793c0,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:25,9dfd758dbad4ee3f,Sportsbar,Nuremberg,,
+368e81af-eb43-4575-8a3e-a59d1daa3af6,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,717c15b0cec43464,Salzbrunner's,Nuremberg,"Salzbrunner Straße 11, 90473 Nürnberg",
+fbbf5a77-f13b-4a80-9e32-03df3dcffaf7,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,c63f0361b0c0d777,Lambada,Nuremberg,,
+3d65fd77-6280-495a-98e7-10df288b24b1,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,62a384d20fb05446,Bar59,Nuremberg,"Johannesgasse 59, 90402 Nürnberg",
+ba129568-4f20-42df-a14f-4c1b214301d0,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,a86f192ef52837a0,Poupette,Nuremberg,"Johannesgasse 22, 90402 Nürnberg",
+4c2b4b46-b2e0-4aeb-8096-72da1b2695a7,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,f485fd31212cc575,Nürnberger Trichter,Nuremberg,"Theatergasse 15, 90402 Nürnberg",
+5577b8af-ebf3-4009-8ff3-1b3c15c1585d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,ade1c66a01b794f7,la bas,Nuremberg,"Hallplatz 31, 90402 Nürnberg",
+938c326d-064d-4578-9fde-3203836e0390,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,c2d0c77f6ab00e5c,Sputnik,Nuremberg,"Hallplatz 29, 90402 Nürnberg",
+5f232790-5098-4d12-91cd-e3f89c76dd0d,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:16:39,12ba17e7fa307c65,Mitte,Nuremberg,,
+dbcfb457-8c85-48c0-9c79-107683bba568,MENU,Candidates found but none validated,2026-09-03 16:17:02,36e8801e0ad26224,einfachso,Nuremberg,"Wodanstraße 26, 90402 Nürnberg",https://www.facebook.com/Einfachsonuernberg/
+cc8349db-4e49-404c-aaa1-6cfcc1fd3a02,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,088c5416b5466512,Mono Bar,Nuremberg,"Klaragasse 13, 90402 Nürnberg",
+12d520fb-164d-4fe9-a0aa-f8153c452eac,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,68962c5a2a06211e,Haltestelle Hering,Nuremberg,"Klaragasse 11, 90402 Nürnberg",
+c0bc1bd2-b772-4f27-85b1-a90e5869c114,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,d0da5b41d1dba228,N°14,Nuremberg,"Adlerstraße 14, 90403 Nürnberg",
+25fc01e9-b918-4ddf-a796-3b29a63c3c96,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,8821f95edb6aa541,Bliss,Nuremberg,"Adlerstraße 14, 90403 Nürnberg",
+cf2468d4-ce34-4b6b-9ce4-000f1fb7c7cf,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,39fbd9cf4a3e0b1c,Weissbier Hex,Nuremberg,"Jakobstraße 17, 90402 Nürnberg",
+1613407e-b274-4cdc-94dc-0e2a0f8c3ca0,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,bdfd3a292d7c5691,Pigalle,Nuremberg,"Pfeifergasse 2a, 90402 Nürnberg",
+a7da9807-baac-43cd-b565-c7c25fab9873,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:02,93f089b344958e3c,Pintus,Nuremberg,"Ludwigstraße 39, 90402 Nürnberg",
+8038711c-968f-48e1-a259-ef734f74fa8c,MENU,Candidates found but none validated,2026-09-03 16:17:15,11fe6a0691b1a141,dieroteBar,Nuremberg,"Peter-Vischer-Straße 3, 90403 Nürnberg",https://dierotebar.net/
+48a410fb-c54a-4e19-b251-c36301e70c62,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,c4d400c8c27d2e6d,Bucher Eck,Nuremberg,"Bucher Straße 72, 90408 Nürnberg",
+0ffb8afc-04ef-49c7-9abc-e4ce7e523baf,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,6dde40de6b18397d,Casa del Habano,Nuremberg,,
+d29f23ab-1fe6-493a-aa15-efa20f9ff07f,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,58f7f8cce6acca60,Bierwerk,Nuremberg,"Unschlittplatz 9, 90403 Nürnberg",https://charakterbierbar.bierwerk-nuernberg.de/
+e4b2ea7c-acfb-487d-882d-01e27d8efc8a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,9cd324afcf692b5f,Kilians Irish Pub,Nuremberg,"Hallplatz 21, 90402 Nürnberg",
+2c561dd3-69ee-4a7b-9d79-901af8074496,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,5b405c658725026e,Der Gostenhofer Dorfschulze,Nuremberg,"Bärenschanzstraße 121, 90429 Nürnberg",
+0e56ac27-2836-44de-a89c-1e0ebf4c66bb,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,71aa280602727f11,Pontiki,Nuremberg,"Troststraße 1, 90429 Nürnberg",https://pontiki-tropical-cafe-bar.business.site/
+256a2812-6f3f-4b2e-b6fa-32288ea6e756,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,5b03d465dc631f6e,Kosovo Bar,Nuremberg,,
+494f7888-271a-4869-a995-45457d8950cc,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,247b22d5a096a073,Bierfäßla,Nuremberg,"Peterstraße 62, 90478 Nürnberg",
+561ebfa1-7ec6-4e69-8a8d-8dc314eedacc,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,0fede264242230ac,Zoom,Nuremberg,"Fenitzerstraße 12, 90489 Nürnberg",
+f217875e-1b2e-4c3e-aa6c-0cfdc5068de8,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:41,42313b6eccf3ddcf,Bert's,Nuremberg,"Wiesenstraße 85, 90459 Nürnberg",
+e392bb5d-ca26-4651-b3c8-d8da10bb3d9c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:48,cc20cc6366061cf2,Schräges Eck,Nuremberg,"Kernstraße 19, 90429 Nürnberg",
+3d05984e-9f64-46ae-b413-ffa885658fcd,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:48,1245eac92dd9cdb7,Zum Kutscher,Nuremberg,"Laufamholzstraße 53, 90482 Nürnberg",
+9b6a500e-4aa9-40d9-ae21-a283714c0ba0,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:48,3969bbbc500239a8,Pilsstube Bayreuther Hof,Nuremberg,"Äußere Bayreuther Straße 123, 90409 Nürnberg",
+5bdee4f5-085c-4e99-aafa-992987f3b618,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:48,53f17b895b2ec7e6,Die unauffindBAR,Nuremberg,"Untere Wörthstraße 7, 90403 Nürnberg",
+0c26ccb1-143a-455d-8683-5f8589e48211,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:48,77cd66731e06fd8a,Feuerbach,Nuremberg,"Ludwig-Feuerbach-Straße 85, 90489 Nürnberg",
+9dcc4f60-7750-4a2d-9a44-5d25408a751e,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:51,93966bdb60c5955b,Plümecke,Hanover,"Voßstraße 39, 30161 Hannover",
+1ce7c7bd-3862-43d9-a7ac-cb1710f8310a,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:17:51,7736e687b8d0dad0,Clubgaststätte TC Bischofshol,Hanover,,
+d9c05dcd-4779-493e-8002-6d408f59a636,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:04,6a44d7f00638e362,Hedonist,Hanover,"Ferdinand-Wallbrecht-Straße 44, 30163 Hannover",
+2f09e21a-630e-4dc6-9a9e-8b3be58b2ef9,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:04,86b3f353071bfaac,Acanto,Hanover,"Dragonerstraße 28, 30163 Hannover",
+77fde5ad-026e-43e7-90b8-9c0de6799616,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:04,bc8dec293ed9716c,Mylife Makaveli,Hanover,,
+fc05f175-dd1e-4b8a-bd48-8b9ff9dd9fb8,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:04,b007fd6ab374c61e,Finesse Lounge,Hanover,,
+4e03aad5-0b61-4814-99a2-3adbc1a3e0c2,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:04,6b2497b3b9e328f5,Safrans Bar,Hanover,,
+7275e4a7-d82c-44b9-a247-b395f95587ef,MENU,Candidates found but none validated,2026-09-03 16:18:18,3006a6f0dc1ab511,Peanuts,Hanover,"Voßstraße 20, 30161 Hannover",http://www.hannover-peanuts.de/
+e3acfc48-d765-4051-93cb-1852cef283a3,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:18,ea1cb5df4007b4a0,Extrakt,Hanover,"Hahnenstraße 3, 30167 Hannover",
+4e561a33-c1d3-45aa-bb57-fa531e13304c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:18,686868d5e029dd0a,Pinte Poing,Hanover,", 30167 Hanover",
+350bbe4e-7b5c-4798-9b5b-9780f2358909,MENU,Candidates found but none validated,2026-09-03 16:18:31,421dd3e678953cc6,Was Nun,Hanover,"Am Kleinen Felde 21, 30167 Hannover",https://www.wasnun.com/
+b00ec717-96b1-400d-b96c-5c78a75fe443,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:45,77487445ac599a89,Kalah,Hanover,"Velberstraße 5, 30451 Hannover",
+22010a04-438c-48fb-b6f0-926f0a7375f3,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:45,441586b08d1c816f,Das Ei,Hanover,,
+07e594f6-384c-449c-bca4-1d04c0c1a33c,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:45,141430dcf8d21ce8,The Irish Pub,Hanover,"Brüderstraße 4,  Hannover",http://www.irishpub-hannover.de/
+7fb1d4ed-cfff-4e41-9132-0ed878e7c268,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:18:50,7b5a2bf849854db1,Pestalozzi-Klause,Hanover,,
+e59c86af-bb29-4f0c-9b02-163a872970c1,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:19:04,ba8ea4a0aff4e8dc,Vereinsgaststätte TuS Kleefeld,Hanover,"Kleestraße 50, 30625 Hannover",
+b874712e-bbd6-4817-939d-9ebb16600758,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:19:04,72e32118e48d73e7,Edenstube,Hanover,,
+2c566237-5ca9-47e3-8af2-947683b621d7,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:19:27,3fa1a887eb5e8d84,Ramberg Eck,Hanover,,
+8b260783-7d2c-41d6-846b-94f49fd54827,MENU,Candidates found but none validated,2026-09-03 16:20:20,fac1e14daa986636,Hamburger Botschaft,Hanover,"Egestorffstraße 5, 30449 Hannover",https://hamburgerbotschaft.de/
+56098251-6931-43cd-a3cd-4bfbdec25fae,WEBSITE,website_status=UNAVAILABLE,2026-09-03 16:20:20,e3edc5af4464df3f,Fiedel,Hanover,,

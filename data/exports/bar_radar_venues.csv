@@ -1194,7 +1194,7 @@ bf168bb91df3c0f1,Meisenfrei,Aachen,,http://www.meisenfrei-aachen.de,,,3,overpass
 2e8e6b76e974033b,Zum Dorfkrug,Aachen,"Lemierser Berg 40, 52074 Aachen",,,,3,overpass_osm,,
 6327aebb43018d47,Zum Treffpunkt,Aachen,,,,,3,overpass_osm,,
 811d1126f672b14f,zuhause,Aachen,,https://zuhause-aachen.de/,,,3,overpass_osm,,
-4adbc605d1bdbfc0,Che Guevara,Bonn,"Münsterstraße 9, 53111 Bonn",,,,3,overpass_osm,,
+4adbc605d1bdbfc0,Che Guevara,Bonn,"Münsterstraße 9, 53111 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:21:48
 8e836288d85ac632,Das Nyx,Bonn,"Vorgebirgsstraße 19, 53111 Bonn",https://das-nyx.de,https://das-nyx.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:21:39
 73bf68308d0cd77c,Die Wache,Bonn,"Heerstraße 145, 53111 Bonn",http://www.die-wache.com/,http://www.die-wache.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:47:08
 62d0376fece8b41e,Fiddlers,Bonn,"Frongasse 9, 53121 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:45
@@ -1210,21 +1210,21 @@ ab4f795effd79ddb,Rheinlust,Bonn,"Rheinaustraße 134, 53225 Bonn",,,NONE,3,overpa
 c0642fdeef64ce75,The Quiet Man,Bonn,"Heerstraße 121, 53111 Bonn",http://the-quiet-man.com/,http://the-quiet-man.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:47:11
 85e6adcf92e949e0,Tresor,Bonn,"Wolfstraße 11, 53111 Bonn",https://www.tresor-bonn.de/,https://www.tresor-bonn.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:20:27
 393eefafed3c67c9,Zone,Bonn,"Maxstraße 2a, 53111 Bonn",https://www.zone-bonn.de/,https://www.zone-bonn.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:22:37
-c107d70a8d19b78f,Bei Tom,Bremen,"Osterholzer Landstraße 36, 28327 Bremen",,,,3,overpass_osm,,
-a5e59a344a35063a,Biersaloon,Bremen,,,,,3,overpass_osm,,
-c73b7c497a89c3b9,Dezza,Bremen,,,,,3,overpass_osm,,
-32ca4260496bda54,Eisenbahner-Sport-Verein eV (ESV-Sebaldsbrück) Gaststätte,Bremen,,,,,3,overpass_osm,,
-c9c0680d7e3f19a7,Flyover,Bremen,,,,,3,overpass_osm,,
-33b17b634833fcdf,Fährhaus,Bremen,"Am Vegesacker Hafen 14,  Bremen",http://www.faehrhaus.com/,,,3,overpass_osm,,
-a1e12045ac1c74e9,Im Holze,Bremen,,,,,3,overpass_osm,,
-1fbe909f688f9dd7,Im Schevemoor,Bremen,,,,,3,overpass_osm,,
-322cd6f70b62b58c,Kiepenkerl,Bremen,,,,,3,overpass_osm,,
-1be9a42f96aad7a1,Mickey Maus,Bremen,,,,,3,overpass_osm,,
-a72b3c8f435c3d76,Sebaldsbrücker Eck,Bremen,,,,,3,overpass_osm,,
-0d9300b787058b34,Vahrer Eck,Bremen,,,,,3,overpass_osm,,
-6292d2c6374da041,Zum Biber,Bremen,,,,,3,overpass_osm,,
-329bc2fb3f690b80,Zum Bier Cup,Bremen,,,,,3,overpass_osm,,
-c9f39b4722d12000,Zum Löschbrunnen,Bremen,,,,,3,overpass_osm,,
+c107d70a8d19b78f,Bei Tom,Bremen,"Osterholzer Landstraße 36, 28327 Bremen",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+a5e59a344a35063a,Biersaloon,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+c73b7c497a89c3b9,Dezza,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+32ca4260496bda54,Eisenbahner-Sport-Verein eV (ESV-Sebaldsbrück) Gaststätte,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+c9c0680d7e3f19a7,Flyover,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+33b17b634833fcdf,Fährhaus,Bremen,"Am Vegesacker Hafen 14,  Bremen",http://www.faehrhaus.com/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+a1e12045ac1c74e9,Im Holze,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+1fbe909f688f9dd7,Im Schevemoor,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+322cd6f70b62b58c,Kiepenkerl,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+1be9a42f96aad7a1,Mickey Maus,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+a72b3c8f435c3d76,Sebaldsbrücker Eck,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+0d9300b787058b34,Vahrer Eck,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+6292d2c6374da041,Zum Biber,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+329bc2fb3f690b80,Zum Bier Cup,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+c9f39b4722d12000,Zum Löschbrunnen,Bremen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
 e64e8e97e98c7fd0,Alter Simon,Freiburg,"Konviktstraße 43, 79098 Freiburg",http://www.altersimon.de,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:15:50
 c9526d16979b536e,Atlantik,Freiburg,"Schwabentorring 7, 79098 Freiburg im Breisgau",https://www.cafe-atlantik.de/,https://www.cafe-atlantik.de/index.php/die-speisekarte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:17:01
 8b32a7e390de1e5e,Cohibar,Freiburg,", 79098 Freiburg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:16:31
@@ -1241,66 +1241,66 @@ e1eb1bab15b62fe0,Litfass,Freiburg,Moltkestraße 17,https://litfass-freiburg.jimd
 dca07fc629cfd77a,Sedan Eck,Freiburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:16:31
 c78b13f0a823c1c4,Webers Weinstube,Freiburg,,https://www.webers-weinstube.de/,https://www.webers-weinstube.de/files/data/webers_weinstube/speisekarten-webers/speisekarte.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-03 20:46:46
 6c57ba0c7fb6a09d,Woods,Freiburg,"Wilhelmstraße 7, 79098 Freiburg im Breisgau",https://woods-coctailhookah.eatbu.com/,,NONE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:16:31
-d7ab67090a1b63bc,Cafè Bistro Goodfellas,Heidelberg,"Bahnhofstraße 15, 69115 Heidelberg",https://www.bistro-goodfellas.de/l/index.html,,,3,overpass_osm,,
-847d1897ebc9680b,Canoa Bar,Heidelberg,"Neuenheimer Landstraße 5, 69120 Heidelberg",,,,3,overpass_osm,,
-4f01d8eafecd6d32,Destille,Heidelberg,"Untere Straße 16, 69117 Heidelberg",https://www.destilleonline.de/,,,3,overpass_osm,,
-ec8f34ad39479770,Domingo Pub,Heidelberg,"Hegenichstraße 4, 69124 Heidelberg",,,,3,overpass_osm,,
-81e636903c19500f,Drugstore,Heidelberg,,https://www.drugstoreheidelberg.de/,,,3,overpass_osm,,
-ca6827736fe7abc7,Himmelswiese,Heidelberg,"Marktstraße 71, 69123 Heidelberg",,,,3,overpass_osm,,
-0840f21c4291ecf7,Karl,Heidelberg,"Lauerstraße 7-9, 69117 Heidelberg",https://www.k-a-r-l.de/,,,3,overpass_osm,,
-08e41d54f89a40bd,Kleiner Mohr,Heidelberg,"Untere Straße 7, 69117 Heidelberg",https://www.der-mohr.com/index.php/kleiner-mohr,,,3,overpass_osm,,
-770d6e020c45cfc5,Lenox-Bar,Heidelberg,,https://lenox-bar.de,,,3,overpass_osm,,
-ea6af31be31b1ce9,Maxbar,Heidelberg,"Marktplatz 5, 69117 Heidelberg",http://www.max-bar-heidelberg.de,,,3,overpass_osm,,
-4b2c312ebe55e7a3,Pilsbar Dorian,Heidelberg,,,,,3,overpass_osm,,
-5c603a921ae63025,Schilling Roofbar,Heidelberg,"Alte Glockengießerei 9, 69115 Heidelberg",https://schillingroofbar.com/,,,3,overpass_osm,,
-2eff1103449c51f2,Vetter Alt-Heidelberger Brauhaus,Heidelberg,,https://www.brauhaus-vetter.de,,,3,overpass_osm,,
-57e51ac75acf0cd1,Zur Neckarpfalz,Heidelberg,,,,,3,overpass_osm,,
-22b1db7287a45227,schlawinski,Heidelberg,,,,,3,overpass_osm,,
-98672589f0a7414a,An Sibin,Karlsruhe,"Amalienstraße 32a, 76133 Karlsruhe",https://ansibinkarlsruhe.de/,,,3,overpass_osm,,
-d56e77227c922c76,Bierakademie,Karlsruhe,,,,,3,overpass_osm,,
-4f7abc4c55d6f6be,Bierhäusle,Karlsruhe,,http://www.bierhaeusle-rueppurr.de,,,3,overpass_osm,,
-e107c2765e21e86c,Die Pinte,Karlsruhe,"Leopoldstraße 15, 76133 Karlsruhe",https://diepinte-karlsruhe.de/,,,3,overpass_osm,,
-74d75e4cbcbb1b2e,Heilige Sophie,Karlsruhe,,https://www.heilige-sophie.de,,,3,overpass_osm,,
-8bf3e3988a9f3c84,IUNO,Karlsruhe,"Werderstraße 49, 76137 Karlsruhe",,,,3,overpass_osm,,
-3bd1a38135975eed,L6,Karlsruhe,"Lameystraße 6, 76185 Karlsruhe",,,,3,overpass_osm,,
-536487aa00a4303d,Le Journal,Karlsruhe,"Karlstraße 46a, 76133 Karlsruhe",,,,3,overpass_osm,,
-263dbff698e81280,Napoleon,Karlsruhe,"Kreuzstraße, 76133 Karlsruhe",,,,3,overpass_osm,,
-761d0808daa52f1b,Petticoat,Karlsruhe,,,,,3,overpass_osm,,
-21fefe3ad9c9662e,Santo's Cocktail Bar,Karlsruhe,"Karlstraße 69, 76137 Karlsruhe",https://www.cocktail-karlsruhe.de/,,,3,overpass_osm,,
-de9a9d79e43c561f,Spalato,Karlsruhe,,,,,3,overpass_osm,,
-fa6f1896ba8f2109,Studentenzentrum Z10 e.V.,Karlsruhe,"Zähringerstraße 10, 76131 Karlsruhe",https://z10.info/,,,3,overpass_osm,,
-fe125ce13e67d4e7,Taverne,Karlsruhe,,,,,3,overpass_osm,,
-82b75ef24cd17e7d,Umpolen im Löwenbräukeller,Karlsruhe,"Sophienstraße 95, 76135 Karlsruhe",https://umpolen.neocities.org,,,3,overpass_osm,,
-41e9e76232706c4a,Blücher,Kiel,"Esmarchstraße 44, 24105 Kiel",,,,3,overpass_osm,,
-031dbc0b5614d505,Hansa 48,Kiel,"Hansastraße 48, 24118 Kiel",https://hansa48.de/kneipe/,,,3,overpass_osm,,
-5188b96745238e66,Heinrich Bar,Kiel,,,,,3,overpass_osm,,
-a55896e867fe5ccb,Kyle's Bar,Kiel,"Bergstraße 17a, 24103 Kiel",,,,3,overpass_osm,,
-98d5740201a8e8bc,Lammer's Eck,Kiel,,,,,3,overpass_osm,,
-412863f7bc09bccc,Murphy's Irish Pub,Kiel,Kaistraße 54-56,,,,3,overpass_osm,,
-33ddcfb4cef31f8f,Pogue Mahone - Irish Pub Kiel,Kiel,"Bergstraße 15, 24103 Kiel",https://poguemahone.de/,,,3,overpass_osm,,
-888b24f7e2e438a1,Prinz Willy,Kiel,"Lutherstraße 9, 24114 Kiel",https://www.prinzwilly.de/,,,3,overpass_osm,,
-a10be5c028ce700b,Pumpe,Kiel,"Haßstraße 22, 24103 Kiel",https://www.diepumpe.de,,,3,overpass_osm,,
-33a5db5a94e03901,Studius,Kiel,,,,,3,overpass_osm,,
-52b478483ef2dc03,Unrat,Kiel,"Spichernstraße 2, 24116 Kiel",https://unrat-kiel.de/,,,3,overpass_osm,,
+d7ab67090a1b63bc,Cafè Bistro Goodfellas,Heidelberg,"Bahnhofstraße 15, 69115 Heidelberg",https://www.bistro-goodfellas.de/l/index.html,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:55
+847d1897ebc9680b,Canoa Bar,Heidelberg,"Neuenheimer Landstraße 5, 69120 Heidelberg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:25:08
+4f01d8eafecd6d32,Destille,Heidelberg,"Untere Straße 16, 69117 Heidelberg",https://www.destilleonline.de/,https://www.destilleonline.de/#tab-c373cc5baa7a65889b1,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:26:02
+ec8f34ad39479770,Domingo Pub,Heidelberg,"Hegenichstraße 4, 69124 Heidelberg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:25:55
+81e636903c19500f,Drugstore,Heidelberg,,https://www.drugstoreheidelberg.de/,https://www.drugstoreheidelberg.de/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:25:39
+ca6827736fe7abc7,Himmelswiese,Heidelberg,"Marktstraße 71, 69123 Heidelberg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:25:55
+0840f21c4291ecf7,Karl,Heidelberg,"Lauerstraße 7-9, 69117 Heidelberg",https://www.k-a-r-l.de/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:02
+08e41d54f89a40bd,Kleiner Mohr,Heidelberg,"Untere Straße 7, 69117 Heidelberg",https://www.der-mohr.com/index.php/kleiner-mohr,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:11
+770d6e020c45cfc5,Lenox-Bar,Heidelberg,,https://lenox-bar.de,https://lenox-bar.de#menue-zu,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:26:05
+ea6af31be31b1ce9,Maxbar,Heidelberg,"Marktplatz 5, 69117 Heidelberg",http://www.max-bar-heidelberg.de,http://www.max-bar-heidelberg.de,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:25:55
+4b2c312ebe55e7a3,Pilsbar Dorian,Heidelberg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:54
+5c603a921ae63025,Schilling Roofbar,Heidelberg,"Alte Glockengießerei 9, 69115 Heidelberg",https://schillingroofbar.com/,https://schillingroofbar.com/german/cocktailkurse,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:25:42
+2eff1103449c51f2,Vetter Alt-Heidelberger Brauhaus,Heidelberg,,https://www.brauhaus-vetter.de,https://www.brauhaus-vetter.de/site/templates/build/assets/media/vetters_brauhaus_de_speisekarte_032026.pdf,PDF,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:25:08
+57e51ac75acf0cd1,Zur Neckarpfalz,Heidelberg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:54
+22b1db7287a45227,schlawinski,Heidelberg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:54
+98672589f0a7414a,An Sibin,Karlsruhe,"Amalienstraße 32a, 76133 Karlsruhe",https://ansibinkarlsruhe.de/,https://ansibinkarlsruhe.de/#imHeader_imMenuObject_09_after_menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:23:54
+d56e77227c922c76,Bierakademie,Karlsruhe,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:41
+4f7abc4c55d6f6be,Bierhäusle,Karlsruhe,,http://www.bierhaeusle-rueppurr.de,http://www.bierhaeusle-rueppurr.de,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:24:36
+e107c2765e21e86c,Die Pinte,Karlsruhe,"Leopoldstraße 15, 76133 Karlsruhe",https://diepinte-karlsruhe.de/,https://diepinte-karlsruhe.de/wp-content/uploads/2026/06/2026-Pinte_Speisekarte_Normal-2.pdf,PDF,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:24:17
+74d75e4cbcbb1b2e,Heilige Sophie,Karlsruhe,,https://www.heilige-sophie.de,https://www.heilige-sophie.de#tab498,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:24:23
+8bf3e3988a9f3c84,IUNO,Karlsruhe,"Werderstraße 49, 76137 Karlsruhe",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:23
+3bd1a38135975eed,L6,Karlsruhe,"Lameystraße 6, 76185 Karlsruhe",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:41
+536487aa00a4303d,Le Journal,Karlsruhe,"Karlstraße 46a, 76133 Karlsruhe",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:36
+263dbff698e81280,Napoleon,Karlsruhe,"Kreuzstraße, 76133 Karlsruhe",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:36
+761d0808daa52f1b,Petticoat,Karlsruhe,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:36
+21fefe3ad9c9662e,Santo's Cocktail Bar,Karlsruhe,"Karlstraße 69, 76137 Karlsruhe",https://www.cocktail-karlsruhe.de/,https://www.cocktail-karlsruhe.de/_files/ugd/3310d9_42214811438d420fb35214d62ea24a3d.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-04 00:24:41
+de9a9d79e43c561f,Spalato,Karlsruhe,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:23:48
+fa6f1896ba8f2109,Studentenzentrum Z10 e.V.,Karlsruhe,"Zähringerstraße 10, 76131 Karlsruhe",https://z10.info/,https://z10.info/karte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:24:54
+fe125ce13e67d4e7,Taverne,Karlsruhe,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:24:41
+82b75ef24cd17e7d,Umpolen im Löwenbräukeller,Karlsruhe,"Sophienstraße 95, 76135 Karlsruhe",https://umpolen.neocities.org,https://umpolen.neocities.org,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:24:07
+41e9e76232706c4a,Blücher,Kiel,"Esmarchstraße 44, 24105 Kiel",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:27:20
+031dbc0b5614d505,Hansa 48,Kiel,"Hansastraße 48, 24118 Kiel",https://hansa48.de/kneipe/,https://hansa48.de/kneipe/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:28:27
+5188b96745238e66,Heinrich Bar,Kiel,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+a55896e867fe5ccb,Kyle's Bar,Kiel,"Bergstraße 17a, 24103 Kiel",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:28:27
+98d5740201a8e8bc,Lammer's Eck,Kiel,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:27:55
+412863f7bc09bccc,Murphy's Irish Pub,Kiel,Kaistraße 54-56,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:28:27
+33ddcfb4cef31f8f,Pogue Mahone - Irish Pub Kiel,Kiel,"Bergstraße 15, 24103 Kiel",https://poguemahone.de/,https://poguemahone.de/karte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:27:55
+888b24f7e2e438a1,Prinz Willy,Kiel,"Lutherstraße 9, 24114 Kiel",https://www.prinzwilly.de/,https://www.prinzwilly.de/speisekarte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:28:09
+a10be5c028ce700b,Pumpe,Kiel,"Haßstraße 22, 24103 Kiel",https://www.diepumpe.de,https://www.diepumpe.de,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 00:27:20
+33a5db5a94e03901,Studius,Kiel,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:27:20
+52b478483ef2dc03,Unrat,Kiel,"Spichernstraße 2, 24116 Kiel",https://unrat-kiel.de/,https://unrat-kiel.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:27:05
 76e13b47f8bb5d55,Wubbke,Kiel,"Holtenauer Straße 112, 24105 Kiel",https://www.bierkneipe-wubbke.de/,,,3,overpass_osm,,
-f242eade453738d3,Zum Ivensring,Kiel,"Ivensring 27, 24149 Kiel",,,,3,overpass_osm,,
-6aa92daaed00c6cc,Zum Wellsee,Kiel,,,,,3,overpass_osm,,
-c3641a5303c56017,Zum frechen Dachs,Kiel,"Waitzstraße 91, 24118 Kiel",http://www.zumfrechendachs.de/,,,3,overpass_osm,,
-65cccd716853a2a6,August,Mainz,"Leichhofstraße 14, 55116 Mainz",https://august-mainz.de/,,,3,overpass_osm,,
-264eee9ef91d2a2c,Baron,Mainz,"Johann-Joachim-Becher-Weg 3, 55128 Mainz",https://www.baron-mainz.de/,,,3,overpass_osm,,
-7682a83de1319e5b,Caponniere,Mainz,"Taunusstraße 44, 55118 Mainz",,,,3,overpass_osm,,
-3e6126a5b9af8fff,Domsgickel,Mainz,,,,,3,overpass_osm,,
-be98c52d79d136ca,Eisgrub-Bräu,Mainz,", 55116 Mainz",https://www.eisgrub.de/,,,3,overpass_osm,,
-2e551cc634b43118,Eva's Pils-Stuben,Mainz,"Budenheimer Straße 29, 55124 Mainz",,,,3,overpass_osm,,
-6fc2106d8bed463a,Haddocks,Mainz,"Frauenlobstraße 29a, 55118 Mainz",https://www.haddocks-mainz.de/,,,3,overpass_osm,,
-4af61e2531169088,Hafeneck,Mainz,"Frauenlobstraße 93, 55118 Mainz",https://www.hafeneck.de,,,3,overpass_osm,,
-8a8a0618d073a6d1,Quartier Mayence,Mainz,"Weihergarten 12, 55116 Mainz",https://www.quartiermayence-bar.de/,,,3,overpass_osm,,
-65ae5a567e69d2a5,Retro,Mainz,,https://retro-gonsenheim.de/,,,3,overpass_osm,,
-ffcbf859ec664fcb,Schroeder's,Mainz,"Illstraße 14, 55118 Mainz",https://www.schroedersmainz.de/,,,3,overpass_osm,,
-70b3197f24ba3299,Teilchen und Beschleuniger,Mainz,"Gartenfeldstraße 22, 55118 Mainz",https://www.tubmainz.de,,,3,overpass_osm,,
-afd7b678593704d1,Weinhaus Wilhelmi,Mainz,,http://www.weinhaus-wilhelmi.de/,,,3,overpass_osm,,
-604ff1e8c581605d,Weinhaus Zum Spiegel,Mainz,", 55116 Mainz",,,,3,overpass_osm,,
-d41d84b8dbecde79,Weinstube Hottum,Mainz,"Grebenstraße 3, 55116 Mainz",https://hottum-mainz.de/,,,3,overpass_osm,,
+f242eade453738d3,Zum Ivensring,Kiel,"Ivensring 27, 24149 Kiel",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:27:20
+6aa92daaed00c6cc,Zum Wellsee,Kiel,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
+c3641a5303c56017,Zum frechen Dachs,Kiel,"Waitzstraße 91, 24118 Kiel",http://www.zumfrechendachs.de/,http://www.zumfrechendachs.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:26:52
+65cccd716853a2a6,August,Mainz,"Leichhofstraße 14, 55116 Mainz",https://august-mainz.de/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:22:44
+264eee9ef91d2a2c,Baron,Mainz,"Johann-Joachim-Becher-Weg 3, 55128 Mainz",https://www.baron-mainz.de/,https://www.baron-mainz.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:22:58
+7682a83de1319e5b,Caponniere,Mainz,"Taunusstraße 44, 55118 Mainz",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:21:49
+3e6126a5b9af8fff,Domsgickel,Mainz,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:22:58
+be98c52d79d136ca,Eisgrub-Bräu,Mainz,", 55116 Mainz",https://www.eisgrub.de/,https://www.eisgrub.de/speisekarte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:22:02
+2e551cc634b43118,Eva's Pils-Stuben,Mainz,"Budenheimer Straße 29, 55124 Mainz",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:23:48
+6fc2106d8bed463a,Haddocks,Mainz,"Frauenlobstraße 29a, 55118 Mainz",https://www.haddocks-mainz.de/,https://www.haddocks-mainz.de/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:23:45
+4af61e2531169088,Hafeneck,Mainz,"Frauenlobstraße 93, 55118 Mainz",https://www.hafeneck.de,https://www.hafeneck.de,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:22:29
+8a8a0618d073a6d1,Quartier Mayence,Mainz,"Weihergarten 12, 55116 Mainz",https://www.quartiermayence-bar.de/,,NONE,3,overpass_osm,BLOCKED,2026-09-04 00:22:44
+65ae5a567e69d2a5,Retro,Mainz,,https://retro-gonsenheim.de/,https://retro-gonsenheim.de/menu/getraenkekarte/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:23:48
+ffcbf859ec664fcb,Schroeder's,Mainz,"Illstraße 14, 55118 Mainz",https://www.schroedersmainz.de/,https://www.schroedersmainz.de/speisekarte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:22:43
+70b3197f24ba3299,Teilchen und Beschleuniger,Mainz,"Gartenfeldstraße 22, 55118 Mainz",https://www.tubmainz.de,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:22:58
+afd7b678593704d1,Weinhaus Wilhelmi,Mainz,,http://www.weinhaus-wilhelmi.de/,http://www.weinhaus-wilhelmi.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:23:32
+604ff1e8c581605d,Weinhaus Zum Spiegel,Mainz,", 55116 Mainz",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:23:19
+d41d84b8dbecde79,Weinstube Hottum,Mainz,"Grebenstraße 3, 55116 Mainz",https://hottum-mainz.de/,https://hottum-mainz.de/speisekarte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 00:23:18
 f10b8e8b53f623e1,Bar Zillus,Münster,"Jüdefelderstraße 41, 48143 Münster",http://www.studentenpilot.de/studentenleben/kneipen/p02000a/bar-zillus_muenster_374.htm,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:19:14
 c1f11d92896fa34a,Buddenturm,Münster,"Buddenstraße 1, 48143 Münster",http://www.buddenturm.de,http://www.buddenturm.de/getraenkekarte.html,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:18:19
 69247c742869bc37,Bullenkopp,Münster,"Alter Fischmarkt 24, 48143 Münster",http://www.bullenkopp.com/,http://www.bullenkopp.com/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:19:33

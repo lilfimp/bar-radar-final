@@ -1188,12 +1188,13 @@ cf934eec1636f1ad,Hansemann-Schänke,Aachen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAI
 ef179d1b9288af24,Hotel Europa,Aachen,,http://deinhoteleuropa.de/,http://deinhoteleuropa.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:17:15
 7d76e3af7ff7f865,KaWo Bar,Aachen,,https://www.kawo1.rwth-aachen.de/~bar/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:16:44
 2fbd95f54d618bd0,Kuckucksnest,Aachen,,https://www.kuckucksnestaachen.de/,https://www.kuckucksnestaachen.de/getränkekarte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:15:47
-08571accf7901ad1,KänGuruh,Aachen,"Kullenhofstraße 60, 52074 Aachen",https://www.kullenhof.de/en/bar-2/,https://www.kullenhof.de/en/bar-2/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:16:07
-bf168bb91df3c0f1,Meisenfrei,Aachen,,http://www.meisenfrei-aachen.de,http://www.meisenfrei-aachen.de/#unsere-karte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:16:24
+08571accf7901ad1,KänGuruh,Aachen,"Kullenhofstraße 60, 52074 Aachen",https://www.kullenhof.de/en/bar-2/,https://www.kullenhof.de/en/bar-2/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:42
+bf168bb91df3c0f1,Meisenfrei,Aachen,,http://www.meisenfrei-aachen.de,http://www.meisenfrei-aachen.de/#unsere-karte,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:42
 943da9769b92c4c9,Zeppelin Eck,Aachen,"Zeppelinstraße 58A, 52068 Aachen",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:15:49
 2e8e6b76e974033b,Zum Dorfkrug,Aachen,"Lemierser Berg 40, 52074 Aachen",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:15:47
 6327aebb43018d47,Zum Treffpunkt,Aachen,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:15:48
 811d1126f672b14f,zuhause,Aachen,,https://zuhause-aachen.de/,https://zuhause-aachen.de/cocktails,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:15:34
+811d1126f672b14f,zuhause,Aachen,,https://zuhause-aachen.de/,https://zuhause-aachen.de/cocktails#skipNavigation32,HTML_PAGE,3,overpass_osm,MANUAL_REVIEW,2026-09-04 04:46:58
 4adbc605d1bdbfc0,Che Guevara,Bonn,"Münsterstraße 9, 53111 Bonn",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:21:48
 8e836288d85ac632,Das Nyx,Bonn,"Vorgebirgsstraße 19, 53111 Bonn",https://das-nyx.de,https://das-nyx.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:21:39
 73bf68308d0cd77c,Die Wache,Bonn,"Heerstraße 145, 53111 Bonn",http://www.die-wache.com/,http://www.die-wache.com/,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-03 20:47:08
@@ -1282,7 +1283,7 @@ a55896e867fe5ccb,Kyle's Bar,Kiel,"Bergstraße 17a, 24103 Kiel",,,NONE,3,overpass
 a10be5c028ce700b,Pumpe,Kiel,"Haßstraße 22, 24103 Kiel",https://www.diepumpe.de,https://www.diepumpe.de,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 00:49:53
 33a5db5a94e03901,Studius,Kiel,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:27:20
 52b478483ef2dc03,Unrat,Kiel,"Spichernstraße 2, 24116 Kiel",https://unrat-kiel.de/,https://unrat-kiel.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:27:05
-76e13b47f8bb5d55,Wubbke,Kiel,"Holtenauer Straße 112, 24105 Kiel",https://www.bierkneipe-wubbke.de/,https://www.bierkneipe-wubbke.de/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:15:19
+76e13b47f8bb5d55,Wubbke,Kiel,"Holtenauer Straße 112, 24105 Kiel",https://www.bierkneipe-wubbke.de/,https://www.bierkneipe-wubbke.de/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:40
 f242eade453738d3,Zum Ivensring,Kiel,"Ivensring 27, 24149 Kiel",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:27:20
 6aa92daaed00c6cc,Zum Wellsee,Kiel,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 00:26:12
 c3641a5303c56017,Zum frechen Dachs,Kiel,"Waitzstraße 91, 24118 Kiel",http://www.zumfrechendachs.de/,http://www.zumfrechendachs.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 00:26:52
@@ -1317,21 +1318,21 @@ e4d3524d598de884,Peacock,Münster,"Jüdefelderstraße 36, 48143 Münster",https:
 1d0bc0bd176391d3,Pinkulus,Münster,"Rosenplatz 6, 48143 Münster",https://pinkulus.de/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:20:14
 dacb59b25ab2afe6,Rote Liebe,Münster,"Kreuzstraße 14, 48143 Münster",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-03 20:18:16
 f1d6105cc7c1e37d,Sterneck,Münster,"Sternstraße 44, 48145 Münster",http://www.sterneck-muenster.de,http://www.sterneck-muenster.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-03 20:20:04
-d8919c5cc439c951,Bar Fritz'n,Potsdam,"Dortustraße 6, 14467 Potsdam",https://www.barfritzn.de/,https://www.barfritzn.de/#getraenkekarte,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:23:37
-79655cba1e1595de,"Bierstube ""Fritze""",Potsdam,,https://hotel-potsdam.dorint.com/de/restaurants,https://hotel-potsdam.dorint.com/de/restaurants#menu-mobile,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:26:57
+d8919c5cc439c951,Bar Fritz'n,Potsdam,"Dortustraße 6, 14467 Potsdam",https://www.barfritzn.de/,https://www.barfritzn.de/#getraenkekarte,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:45:46
+79655cba1e1595de,"Bierstube ""Fritze""",Potsdam,,https://hotel-potsdam.dorint.com/de/restaurants,https://hotel-potsdam.dorint.com/de/restaurants#menu-mobile,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:52
 2d0c7545601b818d,Captain's Corner,Potsdam,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:26:38
-00ee5161429ee8a5,Craddock Burger & Bar,Potsdam,"Dortustraße 7, 14467 Potsdam",https://www.craddock-potsdam.de/,https://www.craddock-potsdam.de/menu,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:24:04
+00ee5161429ee8a5,Craddock Burger & Bar,Potsdam,"Dortustraße 7, 14467 Potsdam",https://www.craddock-potsdam.de/,https://www.craddock-potsdam.de/menu,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:47
 d66014c94ca884c2,Die Gurke,Potsdam,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:26:57
 54ae0f86e4d50ea2,Die KUZE Kneipe,Potsdam,"Hermann-Elflein-Straße 10, 14467 Potsdam",https://kuze-potsdam.de/blog/kneipe/,https://kuze-potsdam.de/blog/kneipe/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:26:38
 0ca9852e13c25f45,Green Mango – Gleis 6,Potsdam,"Karl-Liebknecht-Straße 4, 14482 Potsdam",https://potsdam.greenmango24.de/,https://greenmango24.com/getraenkekarte/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:22:55
 1f6a99049f9b1b77,Hafthorn,Potsdam,"Friedrich-Ebert-Straße 90, 14467 Potsdam",https://www.hafthorn.de/,https://www.hafthorn.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:25:44
-268d37415596c45c,Jimmy's L.A. Bar,Potsdam,,https://hotel-potsdam.dorint.com/de/restaurants,https://hotel-potsdam.dorint.com/de/restaurants#menu-mobile,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:26:54
+268d37415596c45c,Jimmy's L.A. Bar,Potsdam,,https://hotel-potsdam.dorint.com/de/restaurants,https://hotel-potsdam.dorint.com/de/restaurants#menu-mobile,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:51
 51545a74788d81dd,Konsum,Potsdam,,https://www.thalia-potsdam.de/service/konsum-die-wohlfuehlbar/,https://www.thalia-potsdam.de/service/konsum-die-wohlfuehlbar/unsere-karte/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:23:09
 7325352caf1350b5,Nudeltopper,Potsdam,"Plantagenstraße 26, 14482 Potsdam",http://www.nudeltopper-babelsberg.de/,http://www.nudeltopper-babelsberg.de/seite/805/speisekarte.html,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:23:22
-388f5a2bc4706f77,Pot Still,Potsdam,"Jägerallee 35, 14469 Potsdam",https://www.potstillbar.de/,https://www.potstillbar.de/#imGoToMenu,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:25:57
+388f5a2bc4706f77,Pot Still,Potsdam,"Jägerallee 35, 14469 Potsdam",https://www.potstillbar.de/,https://www.potstillbar.de/#imGoToMenu,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:45:50
 ee3f08ddc7c5ee42,Pub à la Pub,Potsdam,"Breite Straße 1, 14467 Potsdam",https://pubalapub.de/,https://pubalapub.de/menu,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:25:21
-84bbb4fb95a02ead,ShamRock's Potsdam,Potsdam,"Lindenstraße 3, 14467 Potsdam",https://shamrocks-potsdam.de/,https://shamrocks-potsdam.de/shamrocks-karte/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:24:38
-9e1df22eb609fa31,Strandbar am Havelufer,Potsdam,,https://www.wyndhamhotels.com/de-de/vienna-house/potsdam-germany/vienna-house-havelufer-potsdam/dining,https://www.wyndhamhotels.com/de-de/vienna-house/potsdam-germany/vienna-house-havelufer-potsdam/dining,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:26:51
+84bbb4fb95a02ead,ShamRock's Potsdam,Potsdam,"Lindenstraße 3, 14467 Potsdam",https://shamrocks-potsdam.de/,https://shamrocks-potsdam.de/shamrocks-karte/,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:50
+9e1df22eb609fa31,Strandbar am Havelufer,Potsdam,,https://www.wyndhamhotels.com/de-de/vienna-house/potsdam-germany/vienna-house-havelufer-potsdam/dining,https://www.wyndhamhotels.com/de-de/vienna-house/potsdam-germany/vienna-house-havelufer-potsdam/dining,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:45:50
 0d13e538d181ca49,Unscheinbar,Potsdam,"Friedrich-Ebert-Straße 118, 14467 Potsdam",http://www.unscheinbar-potsdam.de/,http://www.unscheinbar-potsdam.de/karte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:26:23
 9359ff17491f985f,Zeppelin Sportsbar & Pub,Potsdam,,https://zeppelin-potsdam.de/,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:26:24
 17a92a55c3c69696,Zum Löwen,Potsdam,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:26:57
@@ -1341,7 +1342,7 @@ f4d0c66c74760302,Apotheke GbR,Regensburg,"Rote-Hahnen-Gasse 8, 93047 Regensburg"
 0069ae594fb63df7,Clixx Billard & Bar,Regensburg,"Galgenbergstraße 2c, 93053 Regensburg",https://www.clixx-billard.de/,https://www.clixx-billard.de/Getraenkekarte/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:19:06
 a14639fc01f02370,Freunde der italienischen Oper,Regensburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:18:21
 9c092017a7c50d1e,Heimat,Regensburg,"Am Römling 9, 93047 Regensburg",https://www.heimat-regensburg.de/,https://www.heimat-regensburg.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:17:48
-d150b056d8a5d0c7,Hinterhaus,Regensburg,,https://www.hinterhaus-regensburg.de/,https://www.hinterhaus-regensburg.de/#menu,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:18:21
+d150b056d8a5d0c7,Hinterhaus,Regensburg,,https://www.hinterhaus-regensburg.de/,https://www.hinterhaus-regensburg.de/#menu,HTML_PAGE,3,overpass_osm,POSSIBLE_MENU,2026-09-04 04:45:43
 546eace4169e1538,Irish Harp,Regensburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:17:48
 7e8fe23245a4d8e1,Kinokneipe,Regensburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:18:59
 f644d5b4b59e9335,Murphy's Law,Regensburg,"Spiegelgasse 6, 93047 Regensburg",https://www.murphyslaw-regensburg.de/,https://www.murphyslaw-regensburg.de/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:19:19
@@ -1350,7 +1351,7 @@ f644d5b4b59e9335,Murphy's Law,Regensburg,"Spiegelgasse 6, 93047 Regensburg",http
 761a2b0d11fa749c,Wuid & Schee,Regensburg,"Unter den Schwibbögen 1, 93047 Regensburg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:18:21
 5350ea110916c9de,Zweigstelle,Regensburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:18:21
 2f862ba36ce9a108,da Silva,Regensburg,"Obermünsterstraße 9, 93047 Regensburg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:19:19
-b8bbe5c3e574a6c1,970 Bar,Würzburg,"Sanderstraße 18, 97070 Würzburg",https://www.970bar.de/,https://www.970bar.de/getraenke,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:20:20
+b8bbe5c3e574a6c1,970 Bar,Würzburg,"Sanderstraße 18, 97070 Würzburg",https://www.970bar.de/,https://www.970bar.de/getraenke,HTML_PAGE,3,overpass_osm,VALID_MENU,2026-09-04 04:45:45
 2818ace8909ad04b,Babetts Weinstube,Würzburg,"Franziskanerplatz 1, 97070 Würzburg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:19:53
 b991959675743e77,Chambinzky,Würzburg,"Valentin-Becker-Straße 2, 97072 Würzburg",https://www.chambinzky.com,https://www.chambinzky.com,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:21:13
 7d0063db2e6e463c,LOMA,Würzburg,"Sanderstraße 7, 97070 Würzburg",http://www.loma-bar.com/,http://www.loma-bar.com/,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:20:06
@@ -1361,7 +1362,7 @@ bdffa4fb9750b453,Maulaffenbäck,Würzburg,", 97070 Würzburg",https://www.maulaf
 a05f29e61432335d,Probierstube zum Rauchereck e.V.,Würzburg,"Benzstraße 44, 97082 Würzburg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:19:19
 fb2e744170e8f7ce,Sansibar,Würzburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:19:53
 9abfecd7e81d5d31,Standard,Würzburg,"Oberthürstraße 11a, 97070 Würzburg",https://www.standard-wuerzburg.com,https://www.standard-wuerzburg.com/karte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:19:33
-f3004c79008ac5a0,Sternbäck,Würzburg,"Sterngasse 2, 97070 Würzburg",https://sternbaeck.de/,http://sternbaeck.de/wp-content/uploads/2024/05/05_2024_Speisekarte-Sternbaeck.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-04 04:19:52
+f3004c79008ac5a0,Sternbäck,Würzburg,"Sterngasse 2, 97070 Würzburg",https://sternbaeck.de/,http://sternbaeck.de/wp-content/uploads/2024/05/05_2024_Speisekarte-Sternbaeck.pdf,PDF,3,overpass_osm,VALID_MENU,2026-09-04 04:45:44
 2b96f8dbfef4f15e,Tscharlie Die Musikkneipe,Würzburg,"Sanderstraße 8, 97070 Würzburg",,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:19:53
 209e9d5e809a1cb9,Wohnzimmer Bar,Würzburg,"Tiepolostraße 21, 97070 Würzburg",https://www.wohnzimmer-bar.com,https://www.wohnzimmer-bar.com/getraenkekarte,HTML_PAGE,3,overpass_osm,NO_MENU_FOUND,2026-09-04 04:20:59
 34b571753b5aca66,Zum Udo,Würzburg,,,,NONE,3,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-04 04:19:53
